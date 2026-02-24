@@ -6,6 +6,8 @@ export interface Category {
   icon: string;
   image: string;
   gradient: string;
+  accentColor: string;
+  count: string;
 }
 
 export const categories: Category[] = [
@@ -15,8 +17,10 @@ export const categories: Category[] = [
     slug: "budget",
     description: "Best phones under ₹15,000",
     icon: "💰",
-    image: "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400&h=300&fit=crop",
-    gradient: "from-green-500 to-emerald-600"
+    image: "/category-images/budget.jpg",
+    gradient: "from-emerald-600 to-teal-700",
+    accentColor: "#10b981",
+    count: "120+ Models"
   },
   {
     id: "mid-range",
@@ -24,17 +28,21 @@ export const categories: Category[] = [
     slug: "mid-range",
     description: "Premium features, smart pricing",
     icon: "⚡",
-    image: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=400&h=300&fit=crop",
-    gradient: "from-blue-500 to-indigo-600"
+    image: "/category-images/midrange.jpg",
+    gradient: "from-blue-600 to-indigo-700",
+    accentColor: "#6366f1",
+    count: "85+ Models"
   },
   {
     id: "flagship",
     name: "Flagship Phones",
     slug: "flagship",
-    description: "The best of the best",
+    description: "The absolute best of the best",
     icon: "👑",
-    image: "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&h=300&fit=crop",
-    gradient: "from-purple-500 to-violet-600"
+    image: "/category-images/flagship.jpg",
+    gradient: "from-purple-600 to-violet-700",
+    accentColor: "#a855f7",
+    count: "40+ Models"
   },
   {
     id: "5g",
@@ -42,8 +50,10 @@ export const categories: Category[] = [
     slug: "5g",
     description: "Future-ready connectivity",
     icon: "📶",
-    image: "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=400&h=300&fit=crop",
-    gradient: "from-orange-500 to-red-500"
+    image: "/category-images/5g.jpg",
+    gradient: "from-orange-500 to-amber-600",
+    accentColor: "#f59e0b",
+    count: "60+ Models"
   },
   {
     id: "gaming",
@@ -51,7 +61,9 @@ export const categories: Category[] = [
     slug: "gaming",
     description: "Built for mobile gamers",
     icon: "🎮",
-    image: "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=400&h=300&fit=crop",
-    gradient: "from-red-500 to-pink-600"
+    image: "/category-images/gaming.jpg",
+    gradient: "from-red-600 to-rose-700",
+    accentColor: "#ef4444",
+    count: "25+ Models"
   }
 ];

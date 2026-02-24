@@ -27,7 +27,7 @@ export const heroSlides: HeroSlide[] = [
     cta: "Shop Flagships",
     ctaLink: "/products?category=flagship",
     bgGradient: "from-blue-600 via-blue-700 to-indigo-800",
-    image: "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=900&h=700&fit=crop&q=90",
     badge: "MEGA SALE"
   },
   {
@@ -37,7 +37,7 @@ export const heroSlides: HeroSlide[] = [
     cta: "View Deals",
     ctaLink: "/products?category=budget",
     bgGradient: "from-emerald-600 via-green-700 to-teal-800",
-    image: "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=900&h=700&fit=crop&q=90",
     badge: "STARTING ₹9,999"
   },
   {
@@ -47,17 +47,17 @@ export const heroSlides: HeroSlide[] = [
     cta: "Explore Offers",
     ctaLink: "/products",
     bgGradient: "from-orange-500 via-amber-600 to-yellow-700",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=900&h=700&fit=crop&q=90",
     badge: "BANK OFFERS"
   },
   {
     id: "slide-4",
-    title: "New Launches 2024",
-    subtitle: "OnePlus 12, Nothing Phone 2a, Realme GT 6 — Just Launched!",
+    title: "New Launches 2026",
+    subtitle: "iPhone 17 Pro, OnePlus 13, Pixel 9 Pro, Vivo V50 — Just Launched!",
     cta: "Shop New Arrivals",
     ctaLink: "/products?sort=newest",
     bgGradient: "from-purple-600 via-violet-700 to-fuchsia-800",
-    image: "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=900&h=700&fit=crop&q=90",
     badge: "JUST LAUNCHED"
   },
   {
@@ -67,7 +67,7 @@ export const heroSlides: HeroSlide[] = [
     cta: "Shop Gaming Phones",
     ctaLink: "/products?category=gaming",
     bgGradient: "from-red-600 via-rose-700 to-pink-800",
-    image: "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=900&h=700&fit=crop&q=90",
     badge: "GAMING FEST"
   },
   {
@@ -77,7 +77,7 @@ export const heroSlides: HeroSlide[] = [
     cta: "Shop Now",
     ctaLink: "/products",
     bgGradient: "from-amber-500 via-orange-600 to-red-700",
-    image: "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=800&h=600&fit=crop",
+    image: "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=900&h=700&fit=crop&q=90",
     badge: "FESTIVE SALE"
   }
 ];
@@ -105,7 +105,7 @@ export const offerBanners: OfferBanner[] = [
     id: "offer-strip-3",
     offers: [
       { icon: "🔥", title: "Limited Time", description: "Samsung Galaxy S23 FE at 40% off!", bgColor: "bg-red-50 border-red-200" },
-      { icon: "📱", title: "Top Rated", description: "Highest rated phones of 2024", bgColor: "bg-teal-50 border-teal-200" },
+      { icon: "📱", title: "Top Rated", description: "Highest rated phones of 2026", bgColor: "bg-teal-50 border-teal-200" },
       { icon: "💎", title: "Premium Picks", description: "Handpicked flagship smartphones", bgColor: "bg-violet-50 border-violet-200" },
       { icon: "🎯", title: "Price Drop", description: "Prices slashed on 50+ models", bgColor: "bg-cyan-50 border-cyan-200" }
     ]

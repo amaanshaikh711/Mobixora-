@@ -3,19 +3,106 @@ export interface Brand {
   name: string;
   logo: string;
   slug: string;
+  tagline: string;
+  accentColor: string;
 }
 
+// All logos served locally from /public/brand-logos/ — no external CDN dependency
 export const brands: Brand[] = [
-  { id: "apple", name: "Apple", logo: "https://cdn.worldvectorlogo.com/logos/apple-14.svg", slug: "Apple" },
-  { id: "samsung", name: "Samsung", logo: "https://cdn.worldvectorlogo.com/logos/samsung-8.svg", slug: "Samsung" },
-  { id: "oneplus", name: "OnePlus", logo: "https://cdn.worldvectorlogo.com/logos/oneplus-2.svg", slug: "OnePlus" },
-  { id: "xiaomi", name: "Xiaomi", logo: "https://cdn.worldvectorlogo.com/logos/xiaomi-2.svg", slug: "Xiaomi" },
-  { id: "google", name: "Google", logo: "https://cdn.worldvectorlogo.com/logos/google-g-2015.svg", slug: "Google" },
-  { id: "realme", name: "Realme", logo: "https://cdn.worldvectorlogo.com/logos/realme-2.svg", slug: "Realme" },
-  { id: "vivo", name: "Vivo", logo: "https://cdn.worldvectorlogo.com/logos/vivo-2.svg", slug: "Vivo" },
-  { id: "motorola", name: "Motorola", logo: "https://cdn.worldvectorlogo.com/logos/motorola-2.svg", slug: "Motorola" },
-  { id: "nothing", name: "Nothing", logo: "https://cdn.worldvectorlogo.com/logos/nothing-2.svg", slug: "Nothing" },
-  { id: "iqoo", name: "iQOO", logo: "https://cdn.worldvectorlogo.com/logos/iqoo.svg", slug: "iQOO" },
-  { id: "asus", name: "ASUS", logo: "https://cdn.worldvectorlogo.com/logos/asus-13.svg", slug: "ASUS" },
-  { id: "tecno", name: "Tecno", logo: "https://cdn.worldvectorlogo.com/logos/tecno.svg", slug: "Tecno" },
+  {
+    id: "apple",
+    name: "Apple",
+    logo: "/brand-logos/apple.svg",
+    slug: "Apple",
+    tagline: "iPhone 15 Series",
+    accentColor: "#1d1d1f",
+  },
+  {
+    id: "samsung",
+    name: "Samsung",
+    logo: "/brand-logos/samsung.svg",
+    slug: "Samsung",
+    tagline: "Galaxy S24 Ultra",
+    accentColor: "#1428a0",
+  },
+  {
+    id: "oneplus",
+    name: "OnePlus",
+    logo: "/brand-logos/oneplus.svg",
+    slug: "OnePlus",
+    tagline: "OnePlus 12",
+    accentColor: "#eb0029",
+  },
+  {
+    id: "xiaomi",
+    name: "Xiaomi",
+    logo: "/brand-logos/xiaomi.svg",
+    slug: "Xiaomi",
+    tagline: "Xiaomi 14 Pro",
+    accentColor: "#ff6900",
+  },
+  {
+    id: "google",
+    name: "Google",
+    logo: "/brand-logos/google.svg",
+    slug: "Google",
+    tagline: "Pixel 8 Pro",
+    accentColor: "#4285f4",
+  },
+  {
+    id: "realme",
+    name: "Realme",
+    logo: "/brand-logos/realme.svg",
+    slug: "Realme",
+    tagline: "GT 6 Series",
+    accentColor: "#ffd000",
+  },
+  {
+    id: "vivo",
+    name: "Vivo",
+    logo: "/brand-logos/vivo.svg",
+    slug: "Vivo",
+    tagline: "V30 Pro",
+    accentColor: "#455ebe",
+  },
+  {
+    id: "motorola",
+    name: "Motorola",
+    logo: "/brand-logos/motorola.svg",
+    slug: "Motorola",
+    tagline: "Edge 50 Pro",
+    accentColor: "#005a9c",
+  },
+  {
+    id: "nothing",
+    name: "Nothing",
+    logo: "/brand-logos/nothing.svg",
+    slug: "Nothing",
+    tagline: "Phone (2a)",
+    accentColor: "#cccccc",
+  },
+  {
+    id: "iqoo",
+    name: "iQOO",
+    logo: "/brand-logos/iqoo.svg",
+    slug: "iQOO",
+    tagline: "iQOO 12 Pro",
+    accentColor: "#0033cc",
+  },
+  {
+    id: "asus",
+    name: "ASUS",
+    logo: "/brand-logos/asus.svg",
+    slug: "ASUS",
+    tagline: "ROG Phone 8",
+    accentColor: "#00adef",
+  },
+  {
+    id: "oppo",
+    name: "OPPO",
+    logo: "/brand-logos/oppo.svg",
+    slug: "OPPO",
+    tagline: "Find X7 Ultra",
+    accentColor: "#1d8348",
+  },
 ];

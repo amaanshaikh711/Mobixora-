@@ -26,16 +26,16 @@ export default function ProductCard({ product, compact = false }: Props) {
   return (
     <Link
       href={`/products/${product.id}`}
-      className={`group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-xl hover:border-blue-200 transition-all duration-300 flex flex-col ${
-        compact ? "min-w-50 max-w-55" : ""
-      }`}
+      className={`group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-xl hover:border-blue-200 transition-all duration-300 flex flex-col ${compact ? "min-w-50 max-w-55" : ""
+        }`}
     >
       {/* Image */}
-      <div className="relative bg-gray-50 p-4 flex items-center justify-center aspect-square overflow-hidden">
+      <div className="relative bg-white flex items-center justify-center overflow-hidden" style={{ aspectRatio: '3/4', background: '#f8f9fa' }}>
         <img
           src={product.images[0]}
           alt={product.name}
-          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 rounded-lg"
+          className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
+          style={{ padding: '8px' }}
         />
 
         {/* Add to Cart Button (Top Right) */}

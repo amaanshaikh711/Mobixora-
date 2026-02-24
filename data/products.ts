@@ -1,3 +1,4 @@
+import { extraProducts } from "./productsExtra";
 export interface Product {
   id: string;
   name: string;
@@ -55,10 +56,10 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 12453,
     images: [
-      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1696446702183-cbd13d78e1e7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1697917633898-55edaa2a0b78?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1710023038911-279ce5e0ffd4?w=600&h=600&fit=crop"
+      "/product-images/iphone-15-pro-max.jpg",
+      "/product-images/iphone-15-pro-max.jpg",
+      "/product-images/iphone-15-pro-max.jpg",
+      "/product-images/iphone-15-pro-max.jpg"
     ],
     highlights: [
       "6.7-inch Super Retina XDR OLED Display",
@@ -105,10 +106,10 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 8976,
     images: [
-      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1707942119517-cfa54fa18679?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1706794704770-3c92cc2c0a57?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/samsung-s24-ultra.jpg",
+      "/product-images/samsung-s24-ultra.jpg",
+      "/product-images/samsung-s24-ultra.jpg",
+      "/product-images/samsung-s24-ultra.jpg"
     ],
     highlights: [
       "6.8-inch Dynamic AMOLED 2X, QHD+, 120Hz",
@@ -155,10 +156,10 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 6543,
     images: [
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop"
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg"
     ],
     highlights: [
       "6.82-inch 2K LTPO AMOLED, 120Hz ProXDR Display",
@@ -204,10 +205,10 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 3245,
     images: [
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/xiaomi-14.jpg",
+      "/product-images/xiaomi-14.jpg",
+      "/product-images/xiaomi-14.jpg",
+      "/product-images/xiaomi-14.jpg"
     ],
     highlights: [
       "6.36-inch 1.5K LTPO AMOLED, 120Hz",
@@ -253,10 +254,10 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 4321,
     images: [
-      "https://images.unsplash.com/photo-1696348037880-22780e049264?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop"
+      "/product-images/google-pixel-8-pro.jpg",
+      "/product-images/google-pixel-8-pro.jpg",
+      "/product-images/google-pixel-8-pro.jpg",
+      "/product-images/google-pixel-8-pro.jpg"
     ],
     highlights: [
       "6.7-inch LTPO OLED, QHD+, 120Hz",
@@ -302,10 +303,10 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 7654,
     images: [
-      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop"
+      "/product-images/samsung-a55.jpg",
+      "/product-images/samsung-a55.jpg",
+      "/product-images/samsung-a55.jpg",
+      "/product-images/samsung-a55.jpg"
     ],
     highlights: [
       "6.6-inch Super AMOLED, FHD+, 120Hz",
@@ -351,10 +352,10 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 5432,
     images: [
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/nothing-phone-2a.jpg",
+      "/product-images/nothing-phone-2a.jpg",
+      "/product-images/nothing-phone-2a.jpg",
+      "/product-images/nothing-phone-2a.jpg"
     ],
     highlights: [
       "6.7-inch Flexible AMOLED, FHD+, 120Hz",
@@ -400,10 +401,10 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 3210,
     images: [
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=600&h=600&fit=crop&q=90"
     ],
     highlights: [
       "6.78-inch 2K LTPO AMOLED, 144Hz",
@@ -449,10 +450,10 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 2876,
     images: [
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/realme-gt6.jpg",
+      "/product-images/realme-gt6.jpg",
+      "/product-images/realme-gt6.jpg",
+      "/product-images/realme-gt6.jpg"
     ],
     highlights: [
       "6.78-inch LTPO AMOLED, 1.5K, 120Hz, 6000 nits peak",
@@ -498,10 +499,10 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 2345,
     images: [
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg"
     ],
     highlights: [
       "6.78-inch 3D Curved AMOLED, FHD+, 120Hz",
@@ -547,10 +548,10 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 9876,
     images: [
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/redmi-note-13-pro-plus.jpg",
+      "/product-images/redmi-note-13-pro-plus.jpg",
+      "/product-images/redmi-note-13-pro-plus.jpg",
+      "/product-images/redmi-note-13-pro-plus.jpg"
     ],
     highlights: [
       "6.67-inch CrystalRes AMOLED, 1.5K, 120Hz",
@@ -596,10 +597,10 @@ export const products: Product[] = [
     rating: 4.2,
     reviewCount: 1876,
     images: [
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg"
     ],
     highlights: [
       "6.7-inch pOLED, FHD+, 144Hz, HDR10+",
@@ -645,10 +646,10 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 6543,
     images: [
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/poco-x6-pro.jpg",
+      "/product-images/poco-x6-pro.jpg",
+      "/product-images/poco-x6-pro.jpg",
+      "/product-images/poco-x6-pro.jpg"
     ],
     highlights: [
       "6.67-inch Flow AMOLED, 1.5K, 120Hz",
@@ -694,10 +695,10 @@ export const products: Product[] = [
     rating: 4.2,
     reviewCount: 8765,
     images: [
-      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1706794704770-3c92cc2c0a57?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1707942119517-cfa54fa18679?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1668554245893-2430d0077217?w=600&h=600&fit=crop&q=90"
     ],
     highlights: [
       "6.6-inch Super AMOLED, FHD+, 120Hz",
@@ -743,10 +744,10 @@ export const products: Product[] = [
     rating: 4.2,
     reviewCount: 4567,
     images: [
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&h=600&fit=crop&q=90"
     ],
     highlights: [
       "6.72-inch FHD+ IPS, 120Hz",
@@ -792,10 +793,10 @@ export const products: Product[] = [
     rating: 4.1,
     reviewCount: 11234,
     images: [
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/redmi-13.jpg",
+      "/product-images/redmi-13.jpg",
+      "/product-images/redmi-13.jpg",
+      "/product-images/redmi-13.jpg"
     ],
     highlights: [
       "6.79-inch FHD+ Display, 120Hz",
@@ -841,10 +842,10 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 10234,
     images: [
-      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1696446702183-cbd13d78e1e7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1697917633898-55edaa2a0b78?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1710023038911-279ce5e0ffd4?w=600&h=600&fit=crop"
+      "/product-images/iphone-15.jpg",
+      "/product-images/iphone-15.jpg",
+      "/product-images/iphone-15.jpg",
+      "/product-images/iphone-15.jpg"
     ],
     highlights: [
       "6.1-inch Super Retina XDR OLED",
@@ -890,10 +891,10 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 5432,
     images: [
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop"
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg"
     ],
     highlights: [
       "6.7-inch AMOLED, FHD+, 120Hz",
@@ -939,10 +940,10 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 3456,
     images: [
-      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop"
+      "/product-images/samsung-s23-fe.jpg",
+      "/product-images/samsung-s23-fe.jpg",
+      "/product-images/samsung-s23-fe.jpg",
+      "/product-images/samsung-s23-fe.jpg"
     ],
     highlights: [
       "6.4-inch Dynamic AMOLED 2X, FHD+, 120Hz",
@@ -988,10 +989,10 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 2134,
     images: [
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/asus-rog-8.jpg",
+      "/product-images/asus-rog-8.jpg",
+      "/product-images/asus-rog-8.jpg",
+      "/product-images/asus-rog-8.jpg"
     ],
     highlights: [
       "6.78-inch Samsung AMOLED, FHD+, 165Hz",
@@ -1037,10 +1038,10 @@ export const products: Product[] = [
     rating: 4.0,
     reviewCount: 3456,
     images: [
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/tecno-spark-20-pro.jpg",
+      "/product-images/tecno-spark-20-pro.jpg",
+      "/product-images/tecno-spark-20-pro.jpg",
+      "/product-images/tecno-spark-20-pro.jpg"
     ],
     highlights: [
       "6.78-inch FHD+ IPS, 120Hz",
@@ -1086,10 +1087,10 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 4567,
     images: [
-      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop"
+      "/product-images/samsung-z-flip5.jpg",
+      "/product-images/samsung-z-flip5.jpg",
+      "/product-images/samsung-z-flip5.jpg",
+      "/product-images/samsung-z-flip5.jpg"
     ],
     highlights: [
       "6.7-inch Foldable Dynamic AMOLED, 120Hz",
@@ -1135,10 +1136,10 @@ export const products: Product[] = [
     rating: 4.1,
     reviewCount: 7654,
     images: [
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop"
+      "/product-images/poco-m6-pro.jpg",
+      "/product-images/poco-m6-pro.jpg",
+      "/product-images/poco-m6-pro.jpg",
+      "/product-images/poco-m6-pro.jpg"
     ],
     highlights: [
       "6.74-inch FHD+ IPS, 120Hz",
@@ -1184,10 +1185,10 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 4321,
     images: [
-      "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=600&h=600&fit=crop"
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg"
     ],
     highlights: [
       "6.74-inch AMOLED, FHD+, 120Hz",
@@ -1221,7 +1222,8 @@ export const products: Product[] = [
     isTopDeal: false,
     colors: ["Mercurial Silver", "Obsidian Midnight", "Oasis Green"],
     description: "OnePlus Nord 4 stands out with its unique metal unibody design, Snapdragon 7+ Gen 3, and 100W charging with massive 5500mAh battery."
-  }
+  },
+  ...extraProducts
 ];
 
 export const mockReviews: Review[] = [

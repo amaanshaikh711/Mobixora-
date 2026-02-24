@@ -13,9 +13,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "MobileStore — India's #1 Mobile Phone Shopping Destination",
+  title: "Mobixora — India's #1 Mobile Phone Shopping Destination",
   description:
-    "Shop the latest smartphones at the best prices. iPhones, Samsung Galaxy, OnePlus, Xiaomi & more with No Cost EMI, Bank Offers, and Free Delivery.",
+    "Shop the latest smartphones at the best prices on Mobixora. iPhones, Samsung Galaxy, OnePlus, Xiaomi & more with No Cost EMI, Bank Offers, and Free Delivery.",
 };
 
 export default function RootLayout({

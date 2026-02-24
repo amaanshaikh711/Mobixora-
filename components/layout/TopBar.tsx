@@ -21,7 +21,7 @@ export default function TopBar() {
   }, []);
 
   return (
-    <div className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white text-sm">
+    <div style={{ background: "linear-gradient(135deg, #111111 0%, #3a3a3a 50%, #1a1a1a 100%)" }} className="text-white text-sm">
       <div className="max-w-7xl mx-auto px-4 py-2 flex items-center justify-center">
         <p className="font-medium tracking-wide text-center transition-all duration-500">
           {announcements[index]}

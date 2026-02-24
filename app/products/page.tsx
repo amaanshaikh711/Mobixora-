@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, useMemo } from "react";
-import { useSearchParams } from "next/navigation";
+import { useState, useMemo, useEffect } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import { products } from "@/data/products";
 import { brands } from "@/data/brands";
 import ProductCard from "@/components/products/ProductCard";
@@ -20,36 +20,66 @@ const priceRanges = [
 
 export default function ProductsPage() {
   const searchParams = useSearchParams();
-  const initialBrand = searchParams.get("brand") || "";
-  const initialCategory = searchParams.get("category") || "";
-  const initialSearch = searchParams.get("search") || "";
-  const initialSort = searchParams.get("sort") || "";
+  const router = useRouter();
+
+  // Read live from URL — updates whenever navbar search pushes a new URL
+  const urlSearch = searchParams.get("search") || "";
+  const urlBrand = searchParams.get("brand") || "";
+  const urlCategory = searchParams.get("category") || "";
+  const urlSort = searchParams.get("sort") || "";
 
   const [selectedBrands, setSelectedBrands] = useState<string[]>(
-    initialBrand ? [initialBrand] : []
+    urlBrand ? [urlBrand] : []
   );
   const [selectedCategories, setSelectedCategories] = useState<string[]>(
-    initialCategory ? [initialCategory] : []
+    urlCategory ? [urlCategory] : []
   );
   const [selectedPriceRange, setSelectedPriceRange] = useState<number | null>(null);
   const [selectedRam, setSelectedRam] = useState<string[]>([]);
   const [selectedStorage, setSelectedStorage] = useState<string[]>([]);
   const [minRating, setMinRating] = useState(0);
-  const [sortBy, setSortBy] = useState(initialSort || "relevance");
-  const [searchQuery] = useState(initialSearch);
+  const [sortBy, setSortBy] = useState(urlSort || "relevance");
+  // Local inline search state — synced from URL on every navigation
+  const [localSearch, setLocalSearch] = useState(urlSearch);
   const [showFilters, setShowFilters] = useState(false);
+
+  // Keep localSearch in sync when URL param changes (navbar search)
+  useEffect(() => {
+    setLocalSearch(urlSearch);
+  }, [urlSearch]);
+
+  // When user types in the inline search bar, push to URL so it's shareable
+  const handleInlineSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    const params = new URLSearchParams(searchParams.toString());
+    if (localSearch.trim()) {
+      params.set("search", localSearch.trim());
+    } else {
+      params.delete("search");
+    }
+    router.push(`/products?${params.toString()}`);
+  };
+
+  const clearSearch = () => {
+    setLocalSearch("");
+    const params = new URLSearchParams(searchParams.toString());
+    params.delete("search");
+    router.push(`/products?${params.toString()}`);
+  };
 
   const filteredProducts = useMemo(() => {
     let result = [...products];
 
-    // Search
-    if (searchQuery) {
-      const q = searchQuery.toLowerCase();
+    // Search — uses live URL param + local state
+    const q = (urlSearch || localSearch).toLowerCase().trim();
+    if (q) {
       result = result.filter(
         (p) =>
           p.name.toLowerCase().includes(q) ||
           p.brand.toLowerCase().includes(q) ||
-          p.description.toLowerCase().includes(q)
+          p.description.toLowerCase().includes(q) ||
+          p.highlights.some((h) => h.toLowerCase().includes(q)) ||
+          p.specs.processor.toLowerCase().includes(q)
       );
     }
 
@@ -106,7 +136,7 @@ export default function ProductsPage() {
     }
 
     return result;
-  }, [selectedBrands, selectedCategories, selectedPriceRange, selectedRam, selectedStorage, minRating, sortBy, searchQuery]);
+  }, [selectedBrands, selectedCategories, selectedPriceRange, selectedRam, selectedStorage, minRating, sortBy, urlSearch, localSearch]);
 
   const toggleBrand = (brand: string) => {
     setSelectedBrands((prev) =>
@@ -152,16 +182,43 @@ export default function ProductsPage() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-6">
-      {/* Header */}
-      <div className="flex items-center justify-between mb-6">
+      {/* Header + inline search */}
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
         <div>
           <h1 className="text-2xl font-bold text-gray-900">
-            {searchQuery ? `Search: "${searchQuery}"` : "All Mobile Phones"}
+            {(urlSearch || localSearch) ? `Results for "${urlSearch || localSearch}"` : "All Mobile Phones"}
           </h1>
           <p className="text-sm text-gray-500 mt-1">
             Showing {filteredProducts.length} of {products.length} products
           </p>
         </div>
+
+        {/* Inline search bar */}
+        <form onSubmit={handleInlineSearch} className="flex items-center gap-2 flex-1 sm:max-w-sm">
+          <div className="relative flex-1">
+            <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+            <input
+              type="text"
+              value={localSearch}
+              onChange={(e) => setLocalSearch(e.target.value)}
+              placeholder="Search phones..."
+              className="w-full pl-9 pr-8 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-50"
+            />
+            {localSearch && (
+              <button type="button" onClick={clearSearch} className="absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600">
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            )}
+          </div>
+          <button type="submit" className="px-4 py-2 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition shrink-0">
+            Search
+          </button>
+        </form>
+
         <div className="flex items-center gap-3">
           {/* Mobile filter toggle */}
           <button
@@ -198,11 +255,9 @@ export default function ProductsPage() {
       <div className="flex gap-6">
         {/* Filter Sidebar */}
         <aside
-          className={`${
-            showFilters ? "block" : "hidden"
-          } lg:block w-full lg:w-64 shrink-0 ${
-            showFilters ? "fixed inset-0 z-50 bg-white p-6 overflow-y-auto lg:relative lg:inset-auto lg:z-auto lg:p-0" : ""
-          }`}
+          className={`${showFilters ? "block" : "hidden"
+            } lg:block w-full lg:w-64 shrink-0 ${showFilters ? "fixed inset-0 z-50 bg-white p-6 overflow-y-auto lg:relative lg:inset-auto lg:z-auto lg:p-0" : ""
+            }`}
         >
           {showFilters && (
             <div className="flex items-center justify-between mb-4 lg:hidden">

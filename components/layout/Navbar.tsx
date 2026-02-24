@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
@@ -24,23 +25,22 @@ export default function Navbar() {
   return (
     <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
       <div className="max-w-7xl mx-auto px-4">
-        <div className="flex items-center justify-between h-16 gap-4">
+        <div className="flex items-center justify-between h-20 gap-4">
+
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 shrink-0">
-            <div className="w-9 h-9 bg-gradient-to-br from-blue-600 to-indigo-700 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">M</span>
-            </div>
-            <div className="hidden sm:block">
-              <h1 className="text-xl font-bold text-gray-900 leading-none">MobileStore</h1>
-              <p className="text-[10px] text-gray-500 leading-none">India&apos;s #1 Mobile Shop</p>
-            </div>
+          <Link href="/" className="flex items-center shrink-0">
+            <Image
+              src="/mobixora-logo-2.png"
+              alt="Mobixora"
+              width={280}
+              height={84}
+              className="h-12 w-auto rounded-xl border border-gray-200 bg-white p-1 object-contain shadow-sm"
+              priority
+            />
           </Link>
 
           {/* Search Bar */}
-          <form
-            onSubmit={handleSearch}
-            className="flex-1 max-w-xl hidden md:flex"
-          >
+          <form onSubmit={handleSearch} className="flex-1 max-w-xl hidden md:flex">
             <div className="relative w-full">
               <input
                 type="text"
@@ -62,25 +62,20 @@ export default function Navbar() {
 
           {/* Right Section */}
           <div className="flex items-center gap-3">
-            {/* Nav Links - Desktop */}
+
+            {/* Nav Links - Desktop: Home | All Phones | About | Contact */}
             <nav className="hidden lg:flex items-center gap-1">
-              <Link
-                href="/products"
-                className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition"
-              >
+              <Link href="/" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition">
+                Home
+              </Link>
+              <Link href="/products" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition">
                 All Phones
               </Link>
-              <Link
-                href="/products?category=flagship"
-                className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition"
-              >
-                Flagship
+              <Link href="/about" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition">
+                About
               </Link>
-              <Link
-                href="/products?category=budget"
-                className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition"
-              >
-                Budget
+              <Link href="/contact" className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition">
+                Contact
               </Link>
             </nav>
 
@@ -94,20 +89,11 @@ export default function Navbar() {
               </Link>
             </SignedOut>
             <SignedIn>
-              <Link
-                href="/orders"
-                className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition hidden lg:block"
-              >
-                Orders
-              </Link>
               <UserButton afterSignOutUrl="/" />
             </SignedIn>
 
             {/* Cart */}
-            <Link
-              href="/cart"
-              className="relative p-2 text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition"
-            >
+            <Link href="/cart" className="relative p-2 text-gray-700 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 100 4 2 2 0 000-4z" />
               </svg>
@@ -145,10 +131,7 @@ export default function Navbar() {
                 onChange={(e) => setSearchQuery(e.target.value)}
                 className="w-full pl-4 pr-12 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-50"
               />
-              <button
-                type="submit"
-                className="absolute right-1 top-1 bottom-1 px-3 bg-blue-600 text-white rounded-md"
-              >
+              <button type="submit" className="absolute right-1 top-1 bottom-1 px-3 bg-blue-600 text-white rounded-md">
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
@@ -162,17 +145,17 @@ export default function Navbar() {
       {mobileMenuOpen && (
         <div className="lg:hidden border-t border-gray-200 bg-white">
           <nav className="px-4 py-3 space-y-1">
+            <Link href="/" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
+              Home
+            </Link>
             <Link href="/products" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
               All Phones
             </Link>
-            <Link href="/products?category=flagship" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
-              Flagship
+            <Link href="/about" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
+              About
             </Link>
-            <Link href="/products?category=budget" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
-              Budget
-            </Link>
-            <Link href="/products?category=gaming" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
-              Gaming
+            <Link href="/contact" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
+              Contact
             </Link>
             <SignedOut>
               <Link href="/sign-in" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-semibold text-blue-600 hover:bg-blue-50 rounded-lg">
@@ -180,9 +163,9 @@ export default function Navbar() {
               </Link>
             </SignedOut>
             <SignedIn>
-              <Link href="/orders" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-sm font-medium text-gray-700 hover:bg-blue-50 rounded-lg">
-                My Orders
-              </Link>
+              <div className="px-3 py-2">
+                <UserButton afterSignOutUrl="/" />
+              </div>
             </SignedIn>
           </nav>
         </div>

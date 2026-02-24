@@ -83,7 +83,7 @@ export default function Footer() {
       <div className="border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between gap-2">
           <p className="text-xs text-gray-500">
-            © 2024 MobileStore. All rights reserved. Built for demonstration purposes.
+            © 2026 Mobixora. All rights reserved. Built for demonstration purposes.
           </p>
           <div className="flex items-center gap-4 text-xs text-gray-500">
             <span>Visa</span>
