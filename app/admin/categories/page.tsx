@@ -109,36 +109,38 @@ export default function AdminCategoriesPage() {
         </button>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         {categories.map((category) => (
-          <div key={category.id} className="bg-white rounded-3xl border border-neutral-100 shadow-sm overflow-hidden flex flex-col group hover:shadow-xl transition-all duration-500">
-            <div className="relative h-48 overflow-hidden">
+          <div key={category.id} className="bg-white rounded-2xl border border-neutral-100 shadow-sm overflow-hidden flex flex-col group hover:shadow-lg transition-all duration-300">
+            <div className="relative h-32 overflow-hidden bg-neutral-50">
               <Image
                 src={category.image}
                 alt={category.name}
                 fill
-                className="object-cover transition-transform duration-700 group-hover:scale-110"
-                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                className="object-contain p-2 transition-transform duration-500 group-hover:scale-110"
+                sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 20vw"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-
-              <div className="absolute left-6 bottom-6 flex flex-col">
-                <span className="text-[10px] font-bold uppercase tracking-widest text-white/70 mb-1">
-                  {category.id}
-                </span>
-                <h3 className="text-white font-black text-xl tracking-tight">{category.name}</h3>
+              <div className="absolute left-3 bottom-3 right-3">
+                <div className="bg-white/40 backdrop-blur-md border border-white/20 rounded-xl p-2.5 flex flex-col shadow-sm">
+                  <span className="text-[9px] font-black uppercase tracking-widest text-neutral-900/60 leading-none mb-1">
+                    {category.id}
+                  </span>
+                  <h3 className="text-neutral-900 font-black text-sm leading-none">{category.name}</h3>
+                </div>
               </div>
             </div>
-            <div className="p-6 flex-1 flex flex-col">
-              <p className="text-neutral-500 text-sm mb-6 flex-1 italic">"{category.description}"</p>
-              <div className="flex items-center justify-between pt-5 border-t border-neutral-50">
+            <div className="p-4 flex-1 flex flex-col bg-white">
+              <p className="text-neutral-500 text-[11px] mb-3 flex-1 line-clamp-2 italic">
+                "{category.description}"
+              </p>
+              <div className="flex items-center justify-between pt-3 border-t border-neutral-50">
                 <div className="flex flex-col">
-                  <span className="text-[10px] text-neutral-400 font-bold uppercase">Inventory</span>
-                  <span className="text-sm font-black text-neutral-900">{category.count}</span>
+                  <span className="text-[9px] text-neutral-400 font-bold uppercase leading-none mb-1">Stock</span>
+                  <span className="text-xs font-bold text-neutral-900 leading-none">{category.count.split(' ')[0]}+</span>
                 </div>
-                <div className="flex items-center space-x-2 bg-neutral-50 px-3 py-1.5 rounded-full border border-neutral-100">
-                  <div className="w-3 h-3 rounded-full shadow-sm" style={{ backgroundColor: category.accentColor }}></div>
-                  <span className="text-[10px] font-bold text-neutral-500">{category.accentColor}</span>
+                <div className="flex items-center space-x-1.5 bg-neutral-50 px-2 py-1 rounded-full border border-neutral-100">
+                  <div className="w-2.5 h-2.5 rounded-full shadow-inner" style={{ backgroundColor: category.accentColor }}></div>
+                  <span className="text-[9px] font-bold text-neutral-500 uppercase">{category.accentColor}</span>
                 </div>
               </div>
             </div>

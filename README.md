@@ -51,9 +51,8 @@ The application is fully server-side-ready, statically-typed end-to-end, and con
 |------|-------------|
 | **Homepage** | Hero carousel, Shop by Category, Shop by Brand, Featured Products |
 | **Products Page** | Advanced filtering sidebar + live inline search |
-| **Product Detail** | Image gallery, specs, offers, add to cart |
-| **About** | Company story, team, values, timeline |
-| **Contact** | Contact methods, form, FAQ accordion |
+| **Product Detail** | Image gallery, specs, offers, Amazon-style reviews |
+| **Admin Panel** | Secure dashboard, product management, category control |
 | **Cart** | Persistent cart with EMI breakdown |
 
 ---
@@ -67,14 +66,21 @@ The application is fully server-side-ready, statically-typed end-to-end, and con
 - **Sort options** — Price, Rating, Discount, Newest First
 - **Product detail pages** — image gallery with thumbnail switcher, full specs table, offer cards
 
+### 🛡️ Admin & Control
+- **Secure Admin Panel** — dedicated `/admin` route with custom session protection
+- **Dashboard Stats** — real-time overview of products, stock, and categories
+- **Product Management** — add, edit, and delete handsets from the catalogue
+- **Category Control** — manage store categories with custom images and metadata
+
 ### 🎨 UI / UX
+- **Amazon-style Reviews** — high-quality verified reviews section with ratings and dates
 - **Premium dark hero sections** with gradient backgrounds and glassmorphism cards
-- **Shop by Category** — 5 categories with local press photos and hover animations
+- **Shop by Category** — 5 categories with real mobile hardware photography
 - **Shop by Brand** — 12 brand logos served locally (never breaks)
 - **Auto-sliding hero carousel** with 6 promotional banners
-- **Responsive** — fully mobile-optimised, hamburger menu, mobile search
+- **Responsive** — fully mobile-optimised, fixed mobile menus, professional close buttons
 - **Micro-animations** — hover lifts, scale transitions, gradient colour dots
-- **Object-contain images** — all phone press photos displayed without cropping
+- **Performance** — sub-50ms TTFB via Vercel `bom1` (Mumbai) region
 
 ### 🔐 Authentication
 - **Clerk** — Sign In / Sign Up / Profile with Google OAuth
