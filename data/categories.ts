@@ -1,3 +1,5 @@
+import categoriesJson from "./categories.json";
+
 export interface Category {
   id: string;
   name: string;
@@ -10,60 +12,4 @@ export interface Category {
   count: string;
 }
 
-export const categories: Category[] = [
-  {
-    id: "budget",
-    name: "Budget Phones",
-    slug: "budget",
-    description: "Best phones under ₹15,000",
-    icon: "💰",
-    image: "/category-images/budget.jpg",
-    gradient: "from-emerald-600 to-teal-700",
-    accentColor: "#10b981",
-    count: "120+ Models"
-  },
-  {
-    id: "mid-range",
-    name: "Mid-Range Phones",
-    slug: "mid-range",
-    description: "Premium features, smart pricing",
-    icon: "⚡",
-    image: "/category-images/midrange.jpg",
-    gradient: "from-blue-600 to-indigo-700",
-    accentColor: "#6366f1",
-    count: "85+ Models"
-  },
-  {
-    id: "flagship",
-    name: "Flagship Phones",
-    slug: "flagship",
-    description: "The absolute best of the best",
-    icon: "👑",
-    image: "/category-images/flagship.jpg",
-    gradient: "from-purple-600 to-violet-700",
-    accentColor: "#a855f7",
-    count: "40+ Models"
-  },
-  {
-    id: "5g",
-    name: "5G Phones",
-    slug: "5g",
-    description: "Future-ready connectivity",
-    icon: "📶",
-    image: "/category-images/5g.jpg",
-    gradient: "from-orange-500 to-amber-600",
-    accentColor: "#f59e0b",
-    count: "60+ Models"
-  },
-  {
-    id: "gaming",
-    name: "Gaming Phones",
-    slug: "gaming",
-    description: "Built for mobile gamers",
-    icon: "🎮",
-    image: "/category-images/gaming.jpg",
-    gradient: "from-red-600 to-rose-700",
-    accentColor: "#ef4444",
-    count: "25+ Models"
-  }
-];
+export const categories: Category[] = categoriesJson as Category[];

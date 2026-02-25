@@ -2,9 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { ClerkProvider } from "@clerk/nextjs";
 import { CartProvider } from "@/context/CartContext";
-import TopBar from "@/components/layout/TopBar";
-import Navbar from "@/components/layout/Navbar";
-import Footer from "@/components/layout/Footer";
+import LayoutWrapper from "@/components/layout/LayoutWrapper";
 import "./globals.css";
 
 const inter = Inter({
@@ -13,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Mobixora — India's #1 Mobile Phone Shopping Destination",
+  title: "Mobixora Admin — India's #1 Mobile Phone Shopping Destination",
   description:
     "Shop the latest smartphones at the best prices on Mobixora. iPhones, Samsung Galaxy, OnePlus, Xiaomi & more with No Cost EMI, Bank Offers, and Free Delivery.",
 };
@@ -28,10 +26,7 @@ export default function RootLayout({
       <html lang="en">
         <body className={`${inter.variable} font-sans antialiased bg-white text-gray-900`}>
           <CartProvider>
-            <TopBar />
-            <Navbar />
-            <main className="min-h-screen">{children}</main>
-            <Footer />
+            <LayoutWrapper>{children}</LayoutWrapper>
           </CartProvider>
         </body>
       </html>

@@ -1,0 +1,3690 @@
+[
+  {
+    "id": "iphone-15-pro-max",
+    "name": "Apple iPhone 15 Pro Max",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 156900,
+    "originalPrice": 179900,
+    "discount": 13,
+    "rating": 4.7,
+    "reviewCount": 12453,
+    "images": [
+      "/product-images/iphone-15-pro-max.jpg",
+      "/product-images/iphone-15-pro-max.jpg",
+      "/product-images/iphone-15-pro-max.jpg",
+      "/product-images/iphone-15-pro-max.jpg"
+    ],
+    "highlights": [
+      "6.7-inch Super Retina XDR OLED Display",
+      "A17 Pro Chip with 6-Core GPU",
+      "48MP Main + 12MP Ultra Wide + 12MP Telephoto Camera",
+      "Titanium Design — Lightest Pro model ever",
+      "USB-C with USB 3 speeds",
+      "Action Button for quick access"
+    ],
+    "specs": {
+      "display": "6.7-inch Super Retina XDR OLED, 2796x1290, 120Hz ProMotion",
+      "processor": "A17 Pro Chip",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4441 mAh, 20W Wired, 15W MagSafe",
+      "rearCamera": "48MP Main + 12MP Ultra Wide + 12MP 5x Telephoto",
+      "frontCamera": "12MP TrueDepth with Face ID",
+      "os": "iOS 17",
+      "network": "5G (Sub-6 GHz & mmWave)",
+      "weight": "221 g"
+    },
+    "offers": [
+      "Flat ₹5,000 off with HDFC Bank Credit Card",
+      "No Cost EMI from ₹8,717/month for 18 months",
+      "Exchange up to ₹17,500 off",
+      "Free Apple Music for 6 months"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Natural Titanium",
+      "Blue Titanium",
+      "White Titanium",
+      "Black Titanium"
+    ],
+    "description": "iPhone 15 Pro Max features a strong and lightweight titanium design with a textured matte-glass back. It also features the A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever."
+  },
+  {
+    "id": "samsung-galaxy-s24-ultra",
+    "name": "Samsung Galaxy S24 Ultra 5G",
+    "brand": "Samsung",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 129999,
+    "originalPrice": 144999,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 8976,
+    "images": [
+      "/product-images/samsung-s24-ultra.jpg",
+      "/product-images/samsung-s24-ultra.jpg",
+      "/product-images/samsung-s24-ultra.jpg",
+      "/product-images/samsung-s24-ultra.jpg"
+    ],
+    "highlights": [
+      "6.8-inch Dynamic AMOLED 2X, QHD+, 120Hz",
+      "Snapdragon 8 Gen 3 for Galaxy",
+      "200MP + 12MP + 50MP + 10MP Quad Camera",
+      "Built-in S Pen with AI features",
+      "Galaxy AI — Circle to Search, Live Translate",
+      "Titanium Frame, IP68 Water Resistant"
+    ],
+    "specs": {
+      "display": "6.8-inch Dynamic AMOLED 2X, 3120x1440, 120Hz",
+      "processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "5000 mAh, 45W Wired, 15W Wireless",
+      "rearCamera": "200MP Main + 12MP Ultra Wide + 50MP 5x Telephoto + 10MP 3x Telephoto",
+      "frontCamera": "12MP",
+      "os": "Android 14, One UI 6.1",
+      "network": "5G",
+      "weight": "232 g"
+    },
+    "offers": [
+      "Flat ₹7,000 off with SBI Credit Card",
+      "No Cost EMI from ₹7,223/month",
+      "Exchange up to ₹20,000 off",
+      "Galaxy Buds FE free with purchase"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Titanium Gray",
+      "Titanium Black",
+      "Titanium Violet",
+      "Titanium Yellow"
+    ],
+    "description": "Galaxy S24 Ultra brings Galaxy AI to everything you do. With a powerful Snapdragon 8 Gen 3 chip, stunning 200MP camera, built-in S Pen, and titanium durability."
+  },
+  {
+    "id": "oneplus-12",
+    "name": "OnePlus 12 5G",
+    "brand": "OnePlus",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 64999,
+    "originalPrice": 69999,
+    "discount": 7,
+    "rating": 4.5,
+    "reviewCount": 6543,
+    "images": [
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg"
+    ],
+    "highlights": [
+      "6.82-inch 2K LTPO AMOLED, 120Hz ProXDR Display",
+      "Snapdragon 8 Gen 3 Processor",
+      "50MP Hasselblad Triple Camera System",
+      "5400 mAh Battery with 100W SUPERVOOC",
+      "Up to 24GB RAM with LPDDR5X",
+      "Aqua Touch — use in wet hands"
+    ],
+    "specs": {
+      "display": "6.82-inch 2K LTPO AMOLED, 3168x1440, 120Hz",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "5400 mAh, 100W SUPERVOOC",
+      "rearCamera": "50MP Main + 48MP Ultra Wide + 64MP 3x Telephoto",
+      "frontCamera": "32MP",
+      "os": "Android 14, OxygenOS 14",
+      "network": "5G",
+      "weight": "220 g"
+    },
+    "offers": [
+      "Flat ₹3,000 off with ICICI Bank Cards",
+      "No Cost EMI from ₹5,417/month",
+      "Exchange up to ₹15,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Silky Black",
+      "Flowy Emerald"
+    ],
+    "description": "OnePlus 12 is the flagship killer with Snapdragon 8 Gen 3, Hasselblad camera tuning, and the fastest charging in its class at 100W."
+  },
+  {
+    "id": "xiaomi-14",
+    "name": "Xiaomi 14 5G",
+    "brand": "Xiaomi",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 69999,
+    "originalPrice": 79999,
+    "discount": 13,
+    "rating": 4.4,
+    "reviewCount": 3245,
+    "images": [
+      "/product-images/xiaomi-14.jpg",
+      "/product-images/xiaomi-14.jpg",
+      "/product-images/xiaomi-14.jpg",
+      "/product-images/xiaomi-14.jpg"
+    ],
+    "highlights": [
+      "6.36-inch 1.5K LTPO AMOLED, 120Hz",
+      "Snapdragon 8 Gen 3 Processor",
+      "Leica Optics — 50MP Triple Camera",
+      "4610 mAh with 90W HyperCharge",
+      "IP68 Water & Dust Resistant",
+      "Compact Flagship Design"
+    ],
+    "specs": {
+      "display": "6.36-inch 1.5K LTPO AMOLED, 2670x1200, 120Hz",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "4610 mAh, 90W Wired, 50W Wireless",
+      "rearCamera": "50MP Leica Main + 50MP Ultra Wide + 50MP 3.2x Telephoto",
+      "frontCamera": "32MP",
+      "os": "Android 14, HyperOS",
+      "network": "5G",
+      "weight": "193 g"
+    },
+    "offers": [
+      "Flat ₹5,000 off with HDFC Bank",
+      "No Cost EMI from ₹5,834/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Black",
+      "White",
+      "Jade Green"
+    ],
+    "description": "Xiaomi 14 pairs the powerful Snapdragon 8 Gen 3 with Leica-tuned triple 50MP cameras in a compact, premium design."
+  },
+  {
+    "id": "google-pixel-8-pro",
+    "name": "Google Pixel 8 Pro",
+    "brand": "Google",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 97999,
+    "originalPrice": 106999,
+    "discount": 8,
+    "rating": 4.5,
+    "reviewCount": 4321,
+    "images": [
+      "/product-images/google-pixel-8-pro.jpg",
+      "/product-images/google-pixel-8-pro.jpg",
+      "/product-images/google-pixel-8-pro.jpg",
+      "/product-images/google-pixel-8-pro.jpg"
+    ],
+    "highlights": [
+      "6.7-inch LTPO OLED, QHD+, 120Hz",
+      "Google Tensor G3 with AI features",
+      "50MP + 48MP + 48MP Triple Camera with AI editing",
+      "7 years of OS & Security updates",
+      "Magic Eraser, Best Take, Audio Magic Eraser",
+      "Temperature Sensor"
+    ],
+    "specs": {
+      "display": "6.7-inch LTPO OLED, 2992x1344, 120Hz",
+      "processor": "Google Tensor G3",
+      "ram": "12 GB",
+      "storage": "128 GB",
+      "battery": "5050 mAh, 30W Wired, 23W Wireless",
+      "rearCamera": "50MP Main + 48MP Ultra Wide + 48MP 5x Telephoto",
+      "frontCamera": "10.5MP",
+      "os": "Android 14",
+      "network": "5G",
+      "weight": "213 g"
+    },
+    "offers": [
+      "Flat ₹4,000 off with Axis Bank",
+      "No Cost EMI available",
+      "Exchange up to ₹14,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Obsidian",
+      "Porcelain",
+      "Bay"
+    ],
+    "description": "Google Pixel 8 Pro brings the best of Google AI to your phone with Tensor G3 chip, advanced computational photography, and 7 years of updates."
+  },
+  {
+    "id": "samsung-galaxy-a55",
+    "name": "Samsung Galaxy A55 5G",
+    "brand": "Samsung",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 27999,
+    "originalPrice": 32999,
+    "discount": 15,
+    "rating": 4.3,
+    "reviewCount": 7654,
+    "images": [
+      "/product-images/samsung-a55.jpg",
+      "/product-images/samsung-a55.jpg",
+      "/product-images/samsung-a55.jpg",
+      "/product-images/samsung-a55.jpg"
+    ],
+    "highlights": [
+      "6.6-inch Super AMOLED, FHD+, 120Hz",
+      "Samsung Exynos 1480 Processor",
+      "50MP OIS Triple Camera",
+      "5000 mAh Battery, 25W Charging",
+      "IP67 Water Resistant",
+      "4 Gen OS + 5 Years Security Updates"
+    ],
+    "specs": {
+      "display": "6.6-inch Super AMOLED, 2340x1080, 120Hz",
+      "processor": "Samsung Exynos 1480",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 25W Fast Charging",
+      "rearCamera": "50MP OIS + 12MP Ultra Wide + 5MP Macro",
+      "frontCamera": "13MP",
+      "os": "Android 14, One UI 6.1",
+      "network": "5G",
+      "weight": "213 g"
+    },
+    "offers": [
+      "Flat ₹2,000 off with Bank Offers",
+      "No Cost EMI from ₹1,556/month",
+      "Exchange up to ₹10,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Awesome Iceblue",
+      "Awesome Lilac",
+      "Awesome Lemon",
+      "Awesome Navy"
+    ],
+    "description": "Samsung Galaxy A55 5G offers flagship-level display and camera quality with IP67 rating and long software support at an affordable price."
+  },
+  {
+    "id": "nothing-phone-2a",
+    "name": "Nothing Phone (2a) 5G",
+    "brand": "Nothing",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 23999,
+    "originalPrice": 27999,
+    "discount": 14,
+    "rating": 4.4,
+    "reviewCount": 5432,
+    "images": [
+      "/product-images/nothing-phone-2a.jpg",
+      "/product-images/nothing-phone-2a.jpg",
+      "/product-images/nothing-phone-2a.jpg",
+      "/product-images/nothing-phone-2a.jpg"
+    ],
+    "highlights": [
+      "6.7-inch Flexible AMOLED, FHD+, 120Hz",
+      "MediaTek Dimensity 7200 Pro",
+      "50MP + 50MP Dual Camera with OIS",
+      "5000 mAh, 45W Fast Charging",
+      "Iconic Glyph Interface LED lights",
+      "Nothing OS 2.5 based on Android 14"
+    ],
+    "specs": {
+      "display": "6.7-inch Flexible AMOLED, 2412x1084, 120Hz",
+      "processor": "MediaTek Dimensity 7200 Pro",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 45W Fast Charging",
+      "rearCamera": "50MP OIS + 50MP Ultra Wide",
+      "frontCamera": "32MP",
+      "os": "Android 14, Nothing OS 2.5",
+      "network": "5G",
+      "weight": "190 g"
+    },
+    "offers": [
+      "Flat ₹1,500 off with ICICI Bank",
+      "No Cost EMI from ₹2,000/month",
+      "Exchange up to ₹8,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Black",
+      "Milk"
+    ],
+    "description": "Nothing Phone (2a) delivers a unique design language with Glyph Interface, capable cameras, and smooth performance at a mid-range price."
+  },
+  {
+    "id": "realme-gt-6",
+    "name": "Realme GT 6 5G",
+    "brand": "Realme",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 30999,
+    "originalPrice": 35999,
+    "discount": 14,
+    "rating": 4.3,
+    "reviewCount": 2876,
+    "images": [
+      "/product-images/realme-gt6.jpg",
+      "/product-images/realme-gt6.jpg",
+      "/product-images/realme-gt6.jpg",
+      "/product-images/realme-gt6.jpg"
+    ],
+    "highlights": [
+      "6.78-inch LTPO AMOLED, 1.5K, 120Hz, 6000 nits peak",
+      "Snapdragon 8s Gen 3 Processor",
+      "50MP Sony LYT-808 with OIS",
+      "5500 mAh, 120W SUPERVOOC",
+      "AI Smart Removal, AI Night Vision",
+      "Next AI Features"
+    ],
+    "specs": {
+      "display": "6.78-inch LTPO AMOLED, 2780x1264, 120Hz",
+      "processor": "Snapdragon 8s Gen 3",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "5500 mAh, 120W SUPERVOOC",
+      "rearCamera": "50MP Sony LYT-808 OIS + 8MP Ultra Wide + 2MP Macro",
+      "frontCamera": "32MP",
+      "os": "Android 14, Realme UI 5.0",
+      "network": "5G",
+      "weight": "199 g"
+    },
+    "offers": [
+      "Flat ₹2,000 off with HDFC Bank",
+      "No Cost EMI from ₹2,584/month",
+      "Exchange up to ₹9,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Razor Green",
+      "Fluid Silver"
+    ],
+    "description": "Realme GT 6 brings flagship-level performance with Snapdragon 8s Gen 3, AI-powered photography, and the brightest display in its segment."
+  },
+  {
+    "id": "vivo-v30-pro",
+    "name": "Vivo V30 Pro 5G",
+    "brand": "Vivo",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 33999,
+    "originalPrice": 39999,
+    "discount": 15,
+    "rating": 4.3,
+    "reviewCount": 2345,
+    "images": [
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg"
+    ],
+    "highlights": [
+      "6.78-inch 3D Curved AMOLED, FHD+, 120Hz",
+      "MediaTek Dimensity 8200",
+      "50MP ZEISS + 50MP Ultra Wide Camera",
+      "5000 mAh, 80W FlashCharge",
+      "ZEISS-tuned Portrait, Aura Light",
+      "IP54 Splash Resistant"
+    ],
+    "specs": {
+      "display": "6.78-inch 3D Curved AMOLED, 2400x1080, 120Hz",
+      "processor": "MediaTek Dimensity 8200",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "5000 mAh, 80W FlashCharge",
+      "rearCamera": "50MP ZEISS OIS + 50MP Ultra Wide",
+      "frontCamera": "50MP with Aura Light",
+      "os": "Android 14, Funtouch OS 14",
+      "network": "5G",
+      "weight": "185 g"
+    },
+    "offers": [
+      "Flat ₹2,500 off with SBI Bank",
+      "No Cost EMI from ₹2,834/month",
+      "Exchange up to ₹10,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Peacock Green",
+      "Sugar Pink"
+    ],
+    "description": "Vivo V30 Pro with ZEISS-tuned cameras delivers stunning portraits, 50MP front camera with Aura Light, and a beautiful 3D curved AMOLED display."
+  },
+  {
+    "id": "redmi-note-13-pro-plus",
+    "name": "Redmi Note 13 Pro+ 5G",
+    "brand": "Xiaomi",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 29999,
+    "originalPrice": 33999,
+    "discount": 12,
+    "rating": 4.4,
+    "reviewCount": 9876,
+    "images": [
+      "/product-images/redmi-note-13-pro-plus.jpg",
+      "/product-images/redmi-note-13-pro-plus.jpg",
+      "/product-images/redmi-note-13-pro-plus.jpg",
+      "/product-images/redmi-note-13-pro-plus.jpg"
+    ],
+    "highlights": [
+      "6.67-inch CrystalRes AMOLED, 1.5K, 120Hz",
+      "MediaTek Dimensity 7200 Ultra",
+      "200MP OIS Camera with Samsung ISOCELL HP3",
+      "5000 mAh, 120W HyperCharge",
+      "IP68 Dust and Water Resistant",
+      "Curved Display, Corning Gorilla Glass Victus"
+    ],
+    "specs": {
+      "display": "6.67-inch CrystalRes AMOLED, 2712x1220, 120Hz",
+      "processor": "MediaTek Dimensity 7200 Ultra",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "5000 mAh, 120W HyperCharge",
+      "rearCamera": "200MP Samsung OIS + 8MP Ultra Wide + 2MP Macro",
+      "frontCamera": "16MP",
+      "os": "Android 13, MIUI 14",
+      "network": "5G",
+      "weight": "204.5 g"
+    },
+    "offers": [
+      "Flat ₹1,500 off with Bank Offers",
+      "No Cost EMI from ₹2,500/month",
+      "Exchange up to ₹8,500 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Midnight Black",
+      "Fusion Purple",
+      "Fusion White"
+    ],
+    "description": "Redmi Note 13 Pro+ packs a 200MP camera, 120W charging, IP68 rating and a stunning 1.5K curved display at an incredible price."
+  },
+  {
+    "id": "motorola-edge-50-pro",
+    "name": "Motorola Edge 50 Pro 5G",
+    "brand": "Motorola",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 29999,
+    "originalPrice": 35999,
+    "discount": 17,
+    "rating": 4.2,
+    "reviewCount": 1876,
+    "images": [
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg"
+    ],
+    "highlights": [
+      "6.7-inch pOLED, FHD+, 144Hz, HDR10+",
+      "Snapdragon 7 Gen 3",
+      "50MP OIS + 13MP Ultra Wide + 10MP 3x Telephoto",
+      "4500 mAh, 125W TurboPower Charging",
+      "IP68 Water Resistant + Vegan Leather",
+      "Clean Android with 3 years of updates"
+    ],
+    "specs": {
+      "display": "6.7-inch pOLED, 2400x1080, 144Hz, HDR10+",
+      "processor": "Snapdragon 7 Gen 3",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4500 mAh, 125W TurboPower",
+      "rearCamera": "50MP OIS + 13MP Ultra Wide + 10MP 3x Telephoto",
+      "frontCamera": "50MP",
+      "os": "Android 14",
+      "network": "5G",
+      "weight": "186 g"
+    },
+    "offers": [
+      "Flat ₹2,000 off with Bank Cards",
+      "No Cost EMI from ₹2,500/month",
+      "Exchange up to ₹9,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Moonlight Pearl",
+      "Black Beauty",
+      "Luxe Lavender"
+    ],
+    "description": "Motorola Edge 50 Pro combines a 144Hz pOLED display, 125W charging, and a premium vegan leather design for an elevated mid-range experience."
+  },
+  {
+    "id": "poco-x6-pro",
+    "name": "POCO X6 Pro 5G",
+    "brand": "Xiaomi",
+    "category": [
+      "mid-range",
+      "5g",
+      "gaming"
+    ],
+    "price": 22999,
+    "originalPrice": 26999,
+    "discount": 15,
+    "rating": 4.3,
+    "reviewCount": 6543,
+    "images": [
+      "/product-images/poco-x6-pro.jpg",
+      "/product-images/poco-x6-pro.jpg",
+      "/product-images/poco-x6-pro.jpg",
+      "/product-images/poco-x6-pro.jpg"
+    ],
+    "highlights": [
+      "6.67-inch Flow AMOLED, 1.5K, 120Hz",
+      "MediaTek Dimensity 8300 Ultra",
+      "64MP OIS Camera",
+      "5000 mAh, 67W Turbo Charging",
+      "LiquidCool 2.0 Vapor Chamber",
+      "Corning Gorilla Glass Victus 2"
+    ],
+    "specs": {
+      "display": "6.67-inch Flow AMOLED, 2712x1220, 120Hz",
+      "processor": "MediaTek Dimensity 8300 Ultra",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "5000 mAh, 67W Turbo Charging",
+      "rearCamera": "64MP OIS + 8MP Ultra Wide + 2MP Macro",
+      "frontCamera": "16MP",
+      "os": "Android 14, HyperOS",
+      "network": "5G",
+      "weight": "186 g"
+    },
+    "offers": [
+      "Flat ₹1,000 off with HDFC Bank",
+      "No Cost EMI from ₹1,917/month",
+      "Exchange up to ₹7,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Yellow",
+      "Grey",
+      "Black"
+    ],
+    "description": "POCO X6 Pro delivers flagship-level Dimensity 8300 Ultra performance, 120Hz 1.5K AMOLED, and LiquidCool 2.0 for serious mobile gaming."
+  },
+  {
+    "id": "samsung-galaxy-m35",
+    "name": "Samsung Galaxy M35 5G",
+    "brand": "Samsung",
+    "category": [
+      "budget",
+      "5g"
+    ],
+    "price": 16999,
+    "originalPrice": 19999,
+    "discount": 15,
+    "rating": 4.2,
+    "reviewCount": 8765,
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1706794704770-3c92cc2c0a57?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1707942119517-cfa54fa18679?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1668554245893-2430d0077217?w=600&h=600&fit=crop&q=90"
+    ],
+    "highlights": [
+      "6.6-inch Super AMOLED, FHD+, 120Hz",
+      "Samsung Exynos 1380",
+      "50MP OIS Triple Camera",
+      "6000 mAh Monster Battery, 25W Charging",
+      "Vapour Chamber Cooling",
+      "Knox Security"
+    ],
+    "specs": {
+      "display": "6.6-inch Super AMOLED, 2340x1080, 120Hz",
+      "processor": "Samsung Exynos 1380",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "6000 mAh, 25W Fast Charging",
+      "rearCamera": "50MP OIS + 8MP Ultra Wide + 2MP Macro",
+      "frontCamera": "13MP",
+      "os": "Android 14, One UI 6.1",
+      "network": "5G",
+      "weight": "210 g"
+    },
+    "offers": [
+      "Flat ₹1,000 off with Bank Offers",
+      "No Cost EMI from ₹944/month",
+      "Exchange up to ₹5,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Thunder Grey",
+      "Moonlight Blue",
+      "Berry Pink"
+    ],
+    "description": "Samsung Galaxy M35 delivers a massive 6000mAh battery, 120Hz AMOLED display, and reliable 50MP OIS camera for budget-conscious buyers."
+  },
+  {
+    "id": "realme-narzo-70-pro",
+    "name": "Realme Narzo 70 Pro 5G",
+    "brand": "Realme",
+    "category": [
+      "budget",
+      "5g"
+    ],
+    "price": 14999,
+    "originalPrice": 18999,
+    "discount": 21,
+    "rating": 4.2,
+    "reviewCount": 4567,
+    "images": [
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=600&h=600&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&h=600&fit=crop&q=90"
+    ],
+    "highlights": [
+      "6.72-inch FHD+ IPS, 120Hz",
+      "MediaTek Dimensity 7050",
+      "50MP Sony IMX882 with OIS",
+      "5000 mAh, 45W Fast Charging",
+      "Rainwater Touch Technology",
+      "Side Fingerprint Scanner"
+    ],
+    "specs": {
+      "display": "6.72-inch FHD+ IPS LCD, 2400x1080, 120Hz",
+      "processor": "MediaTek Dimensity 7050",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 45W Fast Charging",
+      "rearCamera": "50MP Sony IMX882 OIS + 2MP Depth",
+      "frontCamera": "16MP",
+      "os": "Android 14, Realme UI 5.0",
+      "network": "5G",
+      "weight": "190 g"
+    },
+    "offers": [
+      "Flat ₹1,000 off with ICICI Bank",
+      "No Cost EMI from ₹1,250/month",
+      "Exchange up to ₹5,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Glass Green",
+      "Glass Gold"
+    ],
+    "description": "Realme Narzo 70 Pro delivers a Sony 50MP OIS camera and Dimensity 7050 performance at an unbeatable budget price."
+  },
+  {
+    "id": "redmi-13",
+    "name": "Redmi 13 5G",
+    "brand": "Xiaomi",
+    "category": [
+      "budget",
+      "5g"
+    ],
+    "price": 11999,
+    "originalPrice": 14999,
+    "discount": 20,
+    "rating": 4.1,
+    "reviewCount": 11234,
+    "images": [
+      "/product-images/redmi-13.jpg",
+      "/product-images/redmi-13.jpg",
+      "/product-images/redmi-13.jpg",
+      "/product-images/redmi-13.jpg"
+    ],
+    "highlights": [
+      "6.79-inch FHD+ Display, 120Hz",
+      "Snapdragon 4 Gen 2",
+      "108MP Primary Camera",
+      "5030 mAh, 33W Fast Charging",
+      "IR Blaster",
+      "3.5mm Audio Jack + microSD support"
+    ],
+    "specs": {
+      "display": "6.79-inch FHD+ LCD, 2460x1080, 120Hz",
+      "processor": "Snapdragon 4 Gen 2",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "5030 mAh, 33W Fast Charging",
+      "rearCamera": "108MP + 2MP Depth",
+      "frontCamera": "13MP",
+      "os": "Android 14, HyperOS",
+      "network": "5G",
+      "weight": "199 g"
+    },
+    "offers": [
+      "Flat ₹750 off with Bank Offers",
+      "No Cost EMI from ₹667/month",
+      "Exchange up to ₹3,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Black Diamond",
+      "Hawaiian Blue",
+      "Hawaian Silver"
+    ],
+    "description": "Redmi 13 5G is an entry-level 5G phone with a massive 108MP camera, Snapdragon 4 Gen 2, and all-day battery at an incredible price."
+  },
+  {
+    "id": "iphone-15",
+    "name": "Apple iPhone 15",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 69900,
+    "originalPrice": 79900,
+    "discount": 13,
+    "rating": 4.6,
+    "reviewCount": 10234,
+    "images": [
+      "/product-images/iphone-15.jpg",
+      "/product-images/iphone-15.jpg",
+      "/product-images/iphone-15.jpg",
+      "/product-images/iphone-15.jpg"
+    ],
+    "highlights": [
+      "6.1-inch Super Retina XDR OLED",
+      "A16 Bionic Chip",
+      "48MP + 12MP Dual Camera System",
+      "Dynamic Island",
+      "USB-C Connectivity",
+      "Ceramic Shield Front"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR OLED, 2556x1179, 60Hz",
+      "processor": "A16 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "3349 mAh, 20W Wired, 15W MagSafe",
+      "rearCamera": "48MP Main + 12MP Ultra Wide",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17",
+      "network": "5G",
+      "weight": "171 g"
+    },
+    "offers": [
+      "Flat ₹4,000 off with HDFC Bank",
+      "No Cost EMI from ₹3,884/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Black",
+      "Blue",
+      "Green",
+      "Yellow",
+      "Pink"
+    ],
+    "description": "iPhone 15 features the Dynamic Island, 48MP camera, USB-C, and the powerful A16 Bionic chip in a stunning color-infused glass design."
+  },
+  {
+    "id": "oneplus-nord-ce4",
+    "name": "OnePlus Nord CE4 5G",
+    "brand": "OnePlus",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 24999,
+    "originalPrice": 27999,
+    "discount": 11,
+    "rating": 4.3,
+    "reviewCount": 5432,
+    "images": [
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg"
+    ],
+    "highlights": [
+      "6.7-inch AMOLED, FHD+, 120Hz",
+      "Snapdragon 7 Gen 3",
+      "50MP Sony LYT-600 OIS Camera",
+      "5500 mAh, 100W SUPERVOOC",
+      "Aqua Touch for wet screen use",
+      "8GB + 8GB RAM Boost"
+    ],
+    "specs": {
+      "display": "6.7-inch AMOLED, 2412x1080, 120Hz",
+      "processor": "Snapdragon 7 Gen 3",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5500 mAh, 100W SUPERVOOC",
+      "rearCamera": "50MP Sony LYT-600 OIS + 2MP Depth",
+      "frontCamera": "16MP",
+      "os": "Android 14, OxygenOS 14",
+      "network": "5G",
+      "weight": "184 g"
+    },
+    "offers": [
+      "Flat ₹1,500 off with ICICI Bank",
+      "No Cost EMI from ₹2,084/month",
+      "Exchange up to ₹8,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Dark Chrome",
+      "Celadon Marble"
+    ],
+    "description": "OnePlus Nord CE4 delivers 100W fast charging, Snapdragon 7 Gen 3, and a capable Sony camera at a competitive mid-range price."
+  },
+  {
+    "id": "samsung-galaxy-s23-fe",
+    "name": "Samsung Galaxy S23 FE 5G",
+    "brand": "Samsung",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 29999,
+    "originalPrice": 49999,
+    "discount": 40,
+    "rating": 4.3,
+    "reviewCount": 3456,
+    "images": [
+      "/product-images/samsung-s23-fe.jpg",
+      "/product-images/samsung-s23-fe.jpg",
+      "/product-images/samsung-s23-fe.jpg",
+      "/product-images/samsung-s23-fe.jpg"
+    ],
+    "highlights": [
+      "6.4-inch Dynamic AMOLED 2X, FHD+, 120Hz",
+      "Samsung Exynos 2200",
+      "50MP OIS Triple Camera",
+      "4500 mAh, 25W Charging",
+      "IP68 Water Resistant",
+      "Galaxy AI Features via update"
+    ],
+    "specs": {
+      "display": "6.4-inch Dynamic AMOLED 2X, 2340x1080, 120Hz",
+      "processor": "Samsung Exynos 2200",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4500 mAh, 25W Fast Charging",
+      "rearCamera": "50MP OIS + 12MP Ultra Wide + 8MP 3x Telephoto",
+      "frontCamera": "10MP",
+      "os": "Android 14, One UI 6.1",
+      "network": "5G",
+      "weight": "209 g"
+    },
+    "offers": [
+      "Flat ₹3,000 off with Bank Offers",
+      "No Cost EMI from ₹2,500/month",
+      "Exchange up to ₹11,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Cream",
+      "Graphite",
+      "Indigo",
+      "Mint",
+      "Tangerine"
+    ],
+    "description": "Samsung Galaxy S23 FE combines flagship Galaxy S experience with Galaxy AI features at a more accessible price point."
+  },
+  {
+    "id": "asus-rog-phone-8",
+    "name": "ASUS ROG Phone 8 5G",
+    "brand": "ASUS",
+    "category": [
+      "flagship",
+      "5g",
+      "gaming"
+    ],
+    "price": 75999,
+    "originalPrice": 89999,
+    "discount": 16,
+    "rating": 4.6,
+    "reviewCount": 2134,
+    "images": [
+      "/product-images/asus-rog-8.jpg",
+      "/product-images/asus-rog-8.jpg",
+      "/product-images/asus-rog-8.jpg",
+      "/product-images/asus-rog-8.jpg"
+    ],
+    "highlights": [
+      "6.78-inch Samsung AMOLED, FHD+, 165Hz",
+      "Snapdragon 8 Gen 3 Mobile Platform",
+      "50MP Gimbal Camera + 13MP + 32MP Telephoto",
+      "5500 mAh, 65W HyperCharge",
+      "AeroActive Cooler X Support",
+      "AirTrigger Ultrasonic buttons + X Sense"
+    ],
+    "specs": {
+      "display": "6.78-inch Samsung AMOLED, 2400x1080, 165Hz",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16 GB",
+      "storage": "256 GB",
+      "battery": "5500 mAh, 65W HyperCharge",
+      "rearCamera": "50MP Gimbal Stabilizer + 13MP Ultra Wide + 32MP 3x Telephoto",
+      "frontCamera": "32MP",
+      "os": "Android 14, ROG UI",
+      "network": "5G",
+      "weight": "225 g"
+    },
+    "offers": [
+      "Flat ₹5,000 off with HDFC Bank",
+      "No Cost EMI from ₹6,334/month",
+      "Exchange up to ₹14,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Phantom Black",
+      "Rebel Grey"
+    ],
+    "description": "ASUS ROG Phone 8 is the ultimate gaming smartphone with Snapdragon 8 Gen 3, 165Hz display, AirTrigger controls, and advanced cooling."
+  },
+  {
+    "id": "tecno-spark-20-pro",
+    "name": "Tecno Spark 20 Pro",
+    "brand": "Tecno",
+    "category": [
+      "budget"
+    ],
+    "price": 10999,
+    "originalPrice": 13999,
+    "discount": 21,
+    "rating": 4,
+    "reviewCount": 3456,
+    "images": [
+      "/product-images/tecno-spark-20-pro.jpg",
+      "/product-images/tecno-spark-20-pro.jpg",
+      "/product-images/tecno-spark-20-pro.jpg",
+      "/product-images/tecno-spark-20-pro.jpg"
+    ],
+    "highlights": [
+      "6.78-inch FHD+ IPS, 120Hz",
+      "MediaTek Helio G99",
+      "108MP Triple Camera",
+      "5000 mAh, 33W Fast Charging",
+      "Dual Speakers with DTS Sound",
+      "Side-mounted Fingerprint"
+    ],
+    "specs": {
+      "display": "6.78-inch FHD+ IPS LCD, 2460x1080, 120Hz",
+      "processor": "MediaTek Helio G99",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "5000 mAh, 33W Fast Charging",
+      "rearCamera": "108MP + 2MP Depth + QVGA",
+      "frontCamera": "32MP",
+      "os": "Android 13, HiOS 13",
+      "network": "4G LTE",
+      "weight": "195 g"
+    },
+    "offers": [
+      "Flat ₹500 off with ICICI Bank",
+      "No Cost EMI from ₹612/month",
+      "Exchange up to ₹3,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Magic Skin Blue",
+      "Magic Skin Green"
+    ],
+    "description": "Tecno Spark 20 Pro offers a 108MP camera, 120Hz display, and solid performance with Helio G99 at an ultra-affordable price."
+  },
+  {
+    "id": "samsung-galaxy-z-flip5",
+    "name": "Samsung Galaxy Z Flip5 5G",
+    "brand": "Samsung",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 89999,
+    "originalPrice": 109999,
+    "discount": 18,
+    "rating": 4.4,
+    "reviewCount": 4567,
+    "images": [
+      "/product-images/samsung-z-flip5.jpg",
+      "/product-images/samsung-z-flip5.jpg",
+      "/product-images/samsung-z-flip5.jpg",
+      "/product-images/samsung-z-flip5.jpg"
+    ],
+    "highlights": [
+      "6.7-inch Foldable Dynamic AMOLED, 120Hz",
+      "Snapdragon 8 Gen 2 for Galaxy",
+      "12MP + 12MP Dual Camera, Flex Mode",
+      "3.4-inch Super AMOLED Cover Screen",
+      "IPX8 Water Resistant",
+      "Compact Foldable Design"
+    ],
+    "specs": {
+      "display": "6.7-inch Foldable Dynamic AMOLED 2X, 2640x1080, 120Hz",
+      "processor": "Snapdragon 8 Gen 2 for Galaxy",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "3700 mAh, 25W Fast Charging",
+      "rearCamera": "12MP + 12MP Ultra Wide",
+      "frontCamera": "10MP",
+      "os": "Android 14, One UI 6.1",
+      "network": "5G",
+      "weight": "187 g"
+    },
+    "offers": [
+      "Flat ₹8,000 off with HDFC Bank",
+      "No Cost EMI from ₹5,000/month",
+      "Exchange up to ₹16,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Cream",
+      "Graphite",
+      "Lavender",
+      "Mint",
+      "Gray"
+    ],
+    "description": "Samsung Galaxy Z Flip5 reimagines the smartphone with a foldable design, large Cover Screen, and flagship performance."
+  },
+  {
+    "id": "poco-m6-pro",
+    "name": "POCO M6 Pro 5G",
+    "brand": "Xiaomi",
+    "category": [
+      "budget",
+      "5g"
+    ],
+    "price": 9999,
+    "originalPrice": 12999,
+    "discount": 23,
+    "rating": 4.1,
+    "reviewCount": 7654,
+    "images": [
+      "/product-images/poco-m6-pro.jpg",
+      "/product-images/poco-m6-pro.jpg",
+      "/product-images/poco-m6-pro.jpg",
+      "/product-images/poco-m6-pro.jpg"
+    ],
+    "highlights": [
+      "6.74-inch FHD+ IPS, 120Hz",
+      "Snapdragon 4 Gen 2 AE",
+      "50MP AI Camera",
+      "5000 mAh, 18W Charging",
+      "Side Fingerprint + Face Unlock",
+      "5G Ready"
+    ],
+    "specs": {
+      "display": "6.74-inch FHD+ IPS LCD, 2400x1080, 120Hz",
+      "processor": "Snapdragon 4 Gen 2 AE",
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "5000 mAh, 18W Fast Charging",
+      "rearCamera": "50MP + 2MP Depth",
+      "frontCamera": "8MP",
+      "os": "Android 14, HyperOS",
+      "network": "5G",
+      "weight": "188 g"
+    },
+    "offers": [
+      "Flat ₹500 off with Bank Cards",
+      "No Cost EMI from ₹556/month",
+      "Exchange up to ₹2,500 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Polaris Green",
+      "Power Black"
+    ],
+    "description": "POCO M6 Pro is the most affordable 5G smartphone with Snapdragon 4 Gen 2, 50MP camera, and reliable 5000mAh battery."
+  },
+  {
+    "id": "oneplus-nord-4",
+    "name": "OnePlus Nord 4 5G",
+    "brand": "OnePlus",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 29999,
+    "originalPrice": 33999,
+    "discount": 12,
+    "rating": 4.4,
+    "reviewCount": 4321,
+    "images": [
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg"
+    ],
+    "highlights": [
+      "6.74-inch AMOLED, FHD+, 120Hz",
+      "Snapdragon 7+ Gen 3",
+      "50MP Sony LYT-600 OIS + 8MP Ultra Wide",
+      "5500 mAh, 100W SUPERVOOC",
+      "Full Metal Unibody Design",
+      "4 years OS + 6 years security updates"
+    ],
+    "specs": {
+      "display": "6.74-inch AMOLED, 2772x1240, 120Hz",
+      "processor": "Snapdragon 7+ Gen 3",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "5500 mAh, 100W SUPERVOOC",
+      "rearCamera": "50MP Sony LYT-600 OIS + 8MP Ultra Wide",
+      "frontCamera": "16MP",
+      "os": "Android 14, OxygenOS 14.1",
+      "network": "5G",
+      "weight": "199.5 g"
+    },
+    "offers": [
+      "Flat ₹2,000 off with ICICI Bank",
+      "No Cost EMI from ₹2,500/month",
+      "Exchange up to ₹10,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Mercurial Silver",
+      "Obsidian Midnight",
+      "Oasis Green"
+    ],
+    "description": "OnePlus Nord 4 stands out with its unique metal unibody design, Snapdragon 7+ Gen 3, and 100W charging with massive 5500mAh battery."
+  },
+  {
+    "id": "iphone-11",
+    "name": "Apple iPhone 11",
+    "brand": "Apple",
+    "category": [
+      "budget"
+    ],
+    "price": 24900,
+    "originalPrice": 39900,
+    "discount": 38,
+    "rating": 4.3,
+    "reviewCount": 45230,
+    "images": [
+      "/product-images/iphone-11.jpg",
+      "/product-images/iphone-11.jpg",
+      "/product-images/iphone-11.jpg",
+      "/product-images/iphone-11.jpg"
+    ],
+    "highlights": [
+      "6.1-inch Liquid Retina IPS",
+      "A13 Bionic Chip",
+      "12MP Dual Camera System",
+      "IP68 Water Resistant"
+    ],
+    "specs": {
+      "display": "6.1-inch Liquid Retina IPS, 1792x828, 60Hz",
+      "processor": "Apple A13 Bionic",
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "3110 mAh, 20W",
+      "rearCamera": "12MP Wide + 12MP Ultra Wide",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17 upgradable",
+      "network": "4G LTE",
+      "weight": "194 g"
+    },
+    "offers": [
+      "₹2,000 off with Bank Offer",
+      "No Cost EMI from ₹2,075/month",
+      "Exchange up to ₹8,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Black",
+      "White",
+      "Yellow",
+      "Green",
+      "Red",
+      "Purple"
+    ],
+    "description": "iPhone 11 brings the powerful A13 Bionic, Night Mode camera, and all-day battery in a colorful glass design."
+  },
+  {
+    "id": "iphone-12",
+    "name": "Apple iPhone 12",
+    "brand": "Apple",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 34900,
+    "originalPrice": 59900,
+    "discount": 42,
+    "rating": 4.4,
+    "reviewCount": 38760,
+    "images": [
+      "/product-images/iphone-12.jpg",
+      "/product-images/iphone-12.jpg",
+      "/product-images/iphone-12.jpg",
+      "/product-images/iphone-12.jpg"
+    ],
+    "highlights": [
+      "6.1-inch Super Retina XDR OLED",
+      "A14 Bionic Chip",
+      "5G Connectivity",
+      "MagSafe Charging"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR OLED, 2532x1170, 60Hz",
+      "processor": "Apple A14 Bionic",
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "2815 mAh, 20W MagSafe",
+      "rearCamera": "12MP Wide + 12MP Ultra Wide",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17 upgradable",
+      "network": "5G",
+      "weight": "164 g"
+    },
+    "offers": [
+      "₹3,000 off with HDFC Bank",
+      "No Cost EMI from ₹2,908/month",
+      "Exchange up to ₹10,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Black",
+      "White",
+      "Blue",
+      "Green",
+      "Red",
+      "Purple"
+    ],
+    "description": "iPhone 12 introduces 5G, the stunning Super Retina XDR OLED display, and the A14 Bionic chip in a flat-edge Ceramic Shield design."
+  },
+  {
+    "id": "iphone-12-pro",
+    "name": "Apple iPhone 12 Pro",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 54900,
+    "originalPrice": 99900,
+    "discount": 45,
+    "rating": 4.5,
+    "reviewCount": 22430,
+    "images": [
+      "/product-images/iphone-12-pro.jpg",
+      "/product-images/iphone-12-pro.jpg",
+      "/product-images/iphone-12-pro.jpg",
+      "/product-images/iphone-12-pro.jpg"
+    ],
+    "highlights": [
+      "6.1-inch Super Retina XDR ProMotion OLED",
+      "A14 Bionic",
+      "Triple 12MP Camera",
+      "LiDAR Scanner"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR OLED, 2532x1170, 60Hz",
+      "processor": "Apple A14 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "2815 mAh, 20W MagSafe",
+      "rearCamera": "12MP Wide + 12MP Ultra Wide + 12MP Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17 upgradable",
+      "network": "5G",
+      "weight": "187 g"
+    },
+    "offers": [
+      "₹5,000 off with ICICI Bank",
+      "No Cost EMI from ₹4,575/month",
+      "Exchange up to ₹14,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Graphite",
+      "Silver",
+      "Gold",
+      "Pacific Blue"
+    ],
+    "description": "iPhone 12 Pro brings a pro camera system with LiDAR Scanner, ProRAW support, and the blazing A14 Bionic chip."
+  },
+  {
+    "id": "iphone-12-pro-max",
+    "name": "Apple iPhone 12 Pro Max",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 59900,
+    "originalPrice": 109900,
+    "discount": 46,
+    "rating": 4.5,
+    "reviewCount": 18900,
+    "images": [
+      "/product-images/iphone-12-pro-max.jpg",
+      "/product-images/iphone-12-pro-max.jpg",
+      "/product-images/iphone-12-pro-max.jpg",
+      "/product-images/iphone-12-pro-max.jpg"
+    ],
+    "highlights": [
+      "6.7-inch Super Retina XDR OLED",
+      "A14 Bionic",
+      "12MP Sensor-shift OIS Camera",
+      "Largest iPhone Battery"
+    ],
+    "specs": {
+      "display": "6.7-inch Super Retina XDR OLED, 2778x1284, 60Hz",
+      "processor": "Apple A14 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "3687 mAh, 20W MagSafe",
+      "rearCamera": "12MP Wide OIS + 12MP Ultra Wide + 12MP 2.5x Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17 upgradable",
+      "network": "5G",
+      "weight": "228 g"
+    },
+    "offers": [
+      "₹6,000 off with HDFC Bank",
+      "No Cost EMI from ₹4,992/month",
+      "Exchange up to ₹15,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Graphite",
+      "Silver",
+      "Gold",
+      "Pacific Blue"
+    ],
+    "description": "iPhone 12 Pro Max is the most capable iPhone with the largest sensor, sensor-shift OIS, and best-in-class battery life."
+  },
+  {
+    "id": "iphone-13",
+    "name": "Apple iPhone 13",
+    "brand": "Apple",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 49900,
+    "originalPrice": 79900,
+    "discount": 38,
+    "rating": 4.5,
+    "reviewCount": 52100,
+    "images": [
+      "/product-images/iphone-13.jpg",
+      "/product-images/iphone-13.jpg",
+      "/product-images/iphone-13.jpg",
+      "/product-images/iphone-13.jpg"
+    ],
+    "highlights": [
+      "6.1-inch Super Retina XDR OLED",
+      "A15 Bionic Chip",
+      "Cinematic Mode Video",
+      "20% Longer Battery"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR OLED, 2532x1170, 60Hz",
+      "processor": "Apple A15 Bionic",
+      "ram": "4 GB",
+      "storage": "128 GB",
+      "battery": "3227 mAh, 20W MagSafe",
+      "rearCamera": "12MP Wide + 12MP Ultra Wide",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17",
+      "network": "5G",
+      "weight": "174 g"
+    },
+    "offers": [
+      "₹4,000 off with HDFC Bank",
+      "No Cost EMI from ₹4,158/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Midnight",
+      "Starlight",
+      "Blue",
+      "Pink",
+      "Red",
+      "Green"
+    ],
+    "description": "iPhone 13 introduces Cinematic Mode, A15 Bionic, and a dramatically improved camera system with significantly longer battery life."
+  },
+  {
+    "id": "iphone-13-pro",
+    "name": "Apple iPhone 13 Pro",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 69900,
+    "originalPrice": 119900,
+    "discount": 42,
+    "rating": 4.6,
+    "reviewCount": 29870,
+    "images": [
+      "/product-images/iphone-13-pro.jpg",
+      "/product-images/iphone-13-pro.jpg",
+      "/product-images/iphone-13-pro.jpg",
+      "/product-images/iphone-13-pro.jpg"
+    ],
+    "highlights": [
+      "6.1-inch ProMotion OLED 120Hz",
+      "A15 Bionic",
+      "Pro Triple Camera",
+      "30x Telephoto Zoom"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR ProMotion OLED, 2532x1170, 10-120Hz",
+      "processor": "Apple A15 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "3095 mAh, 27W MagSafe",
+      "rearCamera": "12MP Wide + 12MP Ultra Wide + 12MP 3x Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17",
+      "network": "5G",
+      "weight": "204 g"
+    },
+    "offers": [
+      "₹6,000 off with ICICI Bank",
+      "No Cost EMI from ₹5,825/month",
+      "Exchange up to ₹16,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Graphite",
+      "Gold",
+      "Silver",
+      "Sierra Blue",
+      "Alpine Green"
+    ],
+    "description": "iPhone 13 Pro features a ProMotion 120Hz display, macro photography, ProRes video, and longer battery life than iPhone 12 Pro."
+  },
+  {
+    "id": "iphone-13-pro-max",
+    "name": "Apple iPhone 13 Pro Max",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 79900,
+    "originalPrice": 129900,
+    "discount": 39,
+    "rating": 4.7,
+    "reviewCount": 24500,
+    "images": [
+      "/product-images/iphone-13-pro-max.jpg",
+      "/product-images/iphone-13-pro-max.jpg",
+      "/product-images/iphone-13-pro-max.jpg",
+      "/product-images/iphone-13-pro-max.jpg"
+    ],
+    "highlights": [
+      "6.7-inch ProMotion OLED 120Hz",
+      "A15 Bionic",
+      "Longest Battery Life",
+      "ProRes Video"
+    ],
+    "specs": {
+      "display": "6.7-inch Super Retina XDR ProMotion OLED, 2778x1284, 10-120Hz",
+      "processor": "Apple A15 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "4352 mAh, 27W MagSafe",
+      "rearCamera": "12MP Wide + 12MP Ultra Wide + 12MP 3x Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17",
+      "network": "5G",
+      "weight": "240 g"
+    },
+    "offers": [
+      "₹7,000 off with HDFC Bank",
+      "No Cost EMI from ₹6,658/month",
+      "Exchange up to ₹18,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Graphite",
+      "Gold",
+      "Silver",
+      "Sierra Blue",
+      "Alpine Green"
+    ],
+    "description": "iPhone 13 Pro Max delivers the best battery life ever in an iPhone, with ProMotion 120Hz, ProRes video, and the A15 Bionic chip."
+  },
+  {
+    "id": "iphone-14",
+    "name": "Apple iPhone 14",
+    "brand": "Apple",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 59900,
+    "originalPrice": 79900,
+    "discount": 25,
+    "rating": 4.5,
+    "reviewCount": 31200,
+    "images": [
+      "/product-images/iphone-14.jpg",
+      "/product-images/iphone-14.jpg",
+      "/product-images/iphone-14.jpg",
+      "/product-images/iphone-14.jpg"
+    ],
+    "highlights": [
+      "6.1-inch Super Retina XDR OLED",
+      "A15 Bionic Chip",
+      "Emergency SOS via Satellite",
+      "Crash Detection"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR OLED, 2532x1170, 60Hz",
+      "processor": "Apple A15 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "3279 mAh, 20W MagSafe",
+      "rearCamera": "12MP Wide + 12MP Ultra Wide",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17",
+      "network": "5G",
+      "weight": "172 g"
+    },
+    "offers": [
+      "₹4,000 off with HDFC Bank",
+      "No Cost EMI from ₹4,992/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Midnight",
+      "Starlight",
+      "Blue",
+      "Purple",
+      "Red",
+      "Yellow"
+    ],
+    "description": "iPhone 14 introduces Emergency SOS via satellite, Crash Detection, and an improved dual camera system with Action Mode."
+  },
+  {
+    "id": "iphone-14-pro",
+    "name": "Apple iPhone 14 Pro",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 89900,
+    "originalPrice": 129900,
+    "discount": 31,
+    "rating": 4.7,
+    "reviewCount": 28900,
+    "images": [
+      "/product-images/iphone-14-pro.jpg",
+      "/product-images/iphone-14-pro.jpg",
+      "/product-images/iphone-14-pro.jpg",
+      "/product-images/iphone-14-pro.jpg"
+    ],
+    "highlights": [
+      "6.1-inch ProMotion OLED Always-On",
+      "A16 Bionic",
+      "Dynamic Island",
+      "48MP Main Camera"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR ProMotion Always-On OLED, 2556x1179, 1-120Hz",
+      "processor": "Apple A16 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "3200 mAh, 27W MagSafe",
+      "rearCamera": "48MP Main + 12MP Ultra Wide + 12MP 3x Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17",
+      "network": "5G",
+      "weight": "206 g"
+    },
+    "offers": [
+      "₹7,000 off with ICICI Bank",
+      "No Cost EMI from ₹7,492/month",
+      "Exchange up to ₹18,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Deep Purple",
+      "Gold",
+      "Silver",
+      "Space Black"
+    ],
+    "description": "iPhone 14 Pro introduces the Dynamic Island, Always-On display, and the 48MP ProRAW camera with A16 Bionic chip."
+  },
+  {
+    "id": "iphone-14-pro-max",
+    "name": "Apple iPhone 14 Pro Max",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 99900,
+    "originalPrice": 139900,
+    "discount": 29,
+    "rating": 4.7,
+    "reviewCount": 21300,
+    "images": [
+      "/product-images/iphone-14-pro.jpg",
+      "/product-images/iphone-14-pro.jpg",
+      "/product-images/iphone-14-pro.jpg",
+      "/product-images/iphone-14-pro.jpg"
+    ],
+    "highlights": [
+      "6.7-inch ProMotion OLED Always-On",
+      "A16 Bionic",
+      "Dynamic Island",
+      "5x Zoom"
+    ],
+    "specs": {
+      "display": "6.7-inch Super Retina XDR ProMotion Always-On OLED, 2796x1290, 1-120Hz",
+      "processor": "Apple A16 Bionic",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "4323 mAh, 27W MagSafe",
+      "rearCamera": "48MP Main + 12MP Ultra Wide + 12MP 3x Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 17",
+      "network": "5G",
+      "weight": "240 g"
+    },
+    "offers": [
+      "₹8,000 off with HDFC Bank",
+      "No Cost EMI from ₹8,325/month",
+      "Exchange up to ₹20,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Deep Purple",
+      "Gold",
+      "Silver",
+      "Space Black"
+    ],
+    "description": "iPhone 14 Pro Max brings the largest ProMotion Always-On display, Dynamic Island, and 48MP camera to the biggest iPhone ever."
+  },
+  {
+    "id": "iphone-16",
+    "name": "Apple iPhone 16",
+    "brand": "Apple",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 79900,
+    "originalPrice": 89900,
+    "discount": 11,
+    "rating": 4.6,
+    "reviewCount": 18750,
+    "images": [
+      "/product-images/iphone-16.jpg",
+      "/product-images/iphone-16.jpg",
+      "/product-images/iphone-16.jpg",
+      "/product-images/iphone-16.jpg"
+    ],
+    "highlights": [
+      "6.1-inch Super Retina XDR OLED",
+      "A18 Chip",
+      "Camera Control Button",
+      "Apple Intelligence"
+    ],
+    "specs": {
+      "display": "6.1-inch Super Retina XDR OLED, 2556x1179, 60Hz",
+      "processor": "Apple A18",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "3561 mAh, 25W MagSafe",
+      "rearCamera": "48MP Fusion + 12MP Ultra Wide",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 18",
+      "network": "5G",
+      "weight": "170 g"
+    },
+    "offers": [
+      "₹5,000 off with HDFC Bank",
+      "No Cost EMI from ₹6,658/month",
+      "Exchange up to ₹14,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Black",
+      "White",
+      "Pink",
+      "Teal",
+      "Ultramarine"
+    ],
+    "description": "iPhone 16 brings Apple Intelligence, the new Camera Control button, and a 48MP camera with A18 chip for a next-level experience."
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "Apple iPhone 16 Plus",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 89900,
+    "originalPrice": 99900,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 9870,
+    "images": [
+      "/product-images/iphone-16-plus.jpg",
+      "/product-images/iphone-16-plus.jpg",
+      "/product-images/iphone-16-plus.jpg",
+      "/product-images/iphone-16-plus.jpg"
+    ],
+    "highlights": [
+      "6.7-inch Super Retina XDR OLED",
+      "A18 Chip",
+      "Largest Battery Yet",
+      "Camera Control"
+    ],
+    "specs": {
+      "display": "6.7-inch Super Retina XDR OLED, 2796x1290, 60Hz",
+      "processor": "Apple A18",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4674 mAh, 25W MagSafe",
+      "rearCamera": "48MP Fusion + 12MP Ultra Wide",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 18",
+      "network": "5G",
+      "weight": "203 g"
+    },
+    "offers": [
+      "₹5,000 off with ICICI Bank",
+      "No Cost EMI from ₹7,492/month",
+      "Exchange up to ₹16,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Black",
+      "White",
+      "Pink",
+      "Teal",
+      "Ultramarine"
+    ],
+    "description": "iPhone 16 Plus offers the biggest battery ever in a standard iPhone, with Apple Intelligence and Camera Control in Ceramic Shield."
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "Apple iPhone 16 Pro",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 119900,
+    "originalPrice": 134900,
+    "discount": 11,
+    "rating": 4.8,
+    "reviewCount": 14320,
+    "images": [
+      "/product-images/iphone-16-pro.jpg",
+      "/product-images/iphone-16-pro.jpg",
+      "/product-images/iphone-16-pro.jpg",
+      "/product-images/iphone-16-pro.jpg"
+    ],
+    "highlights": [
+      "6.3-inch ProMotion OLED Always-On",
+      "A18 Pro Chip",
+      "48MP Fusion + 5x Telephoto",
+      "Apple Intelligence"
+    ],
+    "specs": {
+      "display": "6.3-inch Super Retina XDR ProMotion OLED, 2622x1206, 1-120Hz",
+      "processor": "Apple A18 Pro",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "3582 mAh, 30W MagSafe",
+      "rearCamera": "48MP Fusion + 48MP Ultra Wide + 12MP 5x Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 18",
+      "network": "5G",
+      "weight": "199 g"
+    },
+    "offers": [
+      "₹8,000 off with HDFC Bank",
+      "No Cost EMI from ₹9,992/month",
+      "Exchange up to ₹20,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Black Titanium",
+      "White Titanium",
+      "Natural Titanium",
+      "Desert Titanium"
+    ],
+    "description": "iPhone 16 Pro features the A18 Pro chip, 4K 120fps video, a larger 6.3-inch display with Dynamic Island, and Apple Intelligence."
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "Apple iPhone 16 Pro Max",
+    "brand": "Apple",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 144900,
+    "originalPrice": 159900,
+    "discount": 9,
+    "rating": 4.8,
+    "reviewCount": 11200,
+    "images": [
+      "/product-images/iphone-16-pro-max.jpg",
+      "/product-images/iphone-16-pro-max.jpg",
+      "/product-images/iphone-16-pro-max.jpg",
+      "/product-images/iphone-16-pro-max.jpg"
+    ],
+    "highlights": [
+      "6.9-inch ProMotion OLED Always-On",
+      "A18 Pro Chip",
+      "48MP + 5x Telephoto",
+      "4K 120fps ProRes Video"
+    ],
+    "specs": {
+      "display": "6.9-inch Super Retina XDR ProMotion OLED, 2868x1320, 1-120Hz",
+      "processor": "Apple A18 Pro",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4685 mAh, 30W MagSafe",
+      "rearCamera": "48MP Fusion + 48MP Ultra Wide + 12MP 5x Tele",
+      "frontCamera": "12MP TrueDepth",
+      "os": "iOS 18",
+      "network": "5G",
+      "weight": "227 g"
+    },
+    "offers": [
+      "₹10,000 off with HDFC Bank",
+      "No Cost EMI from ₹12,075/month",
+      "Exchange up to ₹24,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Black Titanium",
+      "White Titanium",
+      "Natural Titanium",
+      "Desert Titanium"
+    ],
+    "description": "iPhone 16 Pro Max is Apple's most powerful iPhone with A18 Pro, the largest 6.9-inch ProMotion display, and a 4685 mAh battery."
+  },
+  {
+    "id": "pixel-7",
+    "name": "Google Pixel 7",
+    "brand": "Google",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 39999,
+    "originalPrice": 59999,
+    "discount": 33,
+    "rating": 4.4,
+    "reviewCount": 18230,
+    "images": [
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg"
+    ],
+    "highlights": [
+      "6.3-inch OLED 90Hz",
+      "Google Tensor G2",
+      "50MP Main Camera",
+      "7 Years Updates"
+    ],
+    "specs": {
+      "display": "6.3-inch OLED, 2400x1080, 90Hz",
+      "processor": "Google Tensor G2",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4355 mAh, 30W",
+      "rearCamera": "50MP + 12MP Ultra Wide",
+      "frontCamera": "10.8MP",
+      "os": "Android 14 → 14 yrs security",
+      "network": "5G",
+      "weight": "197 g"
+    },
+    "offers": [
+      "₹3,000 off with Bank",
+      "No Cost EMI from ₹3,333/month",
+      "Exchange up to ₹10,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Obsidian",
+      "Snow",
+      "Lemongrass"
+    ],
+    "description": "Pixel 7 delivers unmatched computational photography, 5 years of OS updates, and Google's Tensor G2 chip at a great price."
+  },
+  {
+    "id": "pixel-7-pro",
+    "name": "Google Pixel 7 Pro",
+    "brand": "Google",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 59999,
+    "originalPrice": 84999,
+    "discount": 29,
+    "rating": 4.5,
+    "reviewCount": 14560,
+    "images": [
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg"
+    ],
+    "highlights": [
+      "6.7-inch LTPO OLED 120Hz",
+      "Google Tensor G2",
+      "50MP + 48MP 5x Telephoto",
+      "Face Unlock"
+    ],
+    "specs": {
+      "display": "6.7-inch LTPO OLED, 3120x1440, 10-120Hz",
+      "processor": "Google Tensor G2",
+      "ram": "12 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 30W",
+      "rearCamera": "50MP + 12MP UW + 48MP 5x Tele",
+      "frontCamera": "10.8MP",
+      "os": "Android 14 guaranteed",
+      "network": "5G",
+      "weight": "212 g"
+    },
+    "offers": [
+      "₹5,000 off with HDFC Bank",
+      "No Cost EMI from ₹4,999/month",
+      "Exchange up to ₹14,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Obsidian",
+      "Snow",
+      "Hazel"
+    ],
+    "description": "Pixel 7 Pro is the ultimate Pixel with a 5x telephoto, 120Hz LTPO display, and Google AI features powered by Tensor G2."
+  },
+  {
+    "id": "pixel-8",
+    "name": "Google Pixel 8",
+    "brand": "Google",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 65999,
+    "originalPrice": 75999,
+    "discount": 13,
+    "rating": 4.5,
+    "reviewCount": 12870,
+    "images": [
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg"
+    ],
+    "highlights": [
+      "6.2-inch OLED 120Hz",
+      "Google Tensor G3",
+      "50MP Octa PD Camera",
+      "AI Photo Editing"
+    ],
+    "specs": {
+      "display": "6.2-inch OLED, 2400x1080, 60-120Hz",
+      "processor": "Google Tensor G3",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4575 mAh, 27W",
+      "rearCamera": "50MP + 12MP Ultra Wide",
+      "frontCamera": "10.5MP",
+      "os": "Android 14, 7 yrs updates",
+      "network": "5G",
+      "weight": "187 g"
+    },
+    "offers": [
+      "₹4,000 off with ICICI Bank",
+      "No Cost EMI from ₹5,499/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Obsidian",
+      "Hazel",
+      "Rose"
+    ],
+    "description": "Pixel 8 brings Tensor G3, AI-powered Magic Eraser and Best Take features, and 7 years of guaranteed Android updates."
+  },
+  {
+    "id": "pixel-8a",
+    "name": "Google Pixel 8a",
+    "brand": "Google",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 52999,
+    "originalPrice": 59999,
+    "discount": 12,
+    "rating": 4.5,
+    "reviewCount": 9870,
+    "images": [
+      "/product-images/pixel-8a.jpg",
+      "/product-images/pixel-8a.jpg",
+      "/product-images/pixel-8a.jpg",
+      "/product-images/pixel-8a.jpg"
+    ],
+    "highlights": [
+      "6.1-inch OLED 120Hz",
+      "Google Tensor G3",
+      "64MP Main Camera",
+      "7 Years Updates"
+    ],
+    "specs": {
+      "display": "6.1-inch OLED, 2400x1080, 60-120Hz",
+      "processor": "Google Tensor G3",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4492 mAh, 18W",
+      "rearCamera": "64MP + 13MP Ultra Wide",
+      "frontCamera": "13MP",
+      "os": "Android 14, 7 yrs updates",
+      "network": "5G",
+      "weight": "188 g"
+    },
+    "offers": [
+      "₹3,000 off with Bank",
+      "No Cost EMI from ₹4,416/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Obsidian",
+      "Porcelain",
+      "Aloe",
+      "Bay"
+    ],
+    "description": "Pixel 8a offers flagship AI features, a 64MP camera, and 7 years of software support at a compelling mid-range price."
+  },
+  {
+    "id": "pixel-9",
+    "name": "Google Pixel 9",
+    "brand": "Google",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 79999,
+    "originalPrice": 89999,
+    "discount": 11,
+    "rating": 4.6,
+    "reviewCount": 8760,
+    "images": [
+      "/product-images/pixel-8a.jpg",
+      "/product-images/pixel-8a.jpg",
+      "/product-images/pixel-8a.jpg",
+      "/product-images/pixel-8a.jpg"
+    ],
+    "highlights": [
+      "6.3-inch Actua OLED 120Hz",
+      "Google Tensor G4",
+      "50MP Triple Camera",
+      "Gemini AI Built-in"
+    ],
+    "specs": {
+      "display": "6.3-inch Actua OLED, 2424x1080, 60-120Hz",
+      "processor": "Google Tensor G4",
+      "ram": "12 GB",
+      "storage": "128 GB",
+      "battery": "4700 mAh, 27W",
+      "rearCamera": "50MP + 48MP Ultra Wide",
+      "frontCamera": "10.5MP",
+      "os": "Android 15, 7 yrs updates",
+      "network": "5G",
+      "weight": "198 g"
+    },
+    "offers": [
+      "₹5,000 off with HDFC Bank",
+      "No Cost EMI from ₹6,666/month",
+      "Exchange up to ₹15,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Obsidian",
+      "Porcelain",
+      "Wintergreen",
+      "Peony"
+    ],
+    "description": "Pixel 9 features Google's Tensor G4, Gemini AI integration, and the new Pixel Camera with Add Me group photo feature."
+  },
+  {
+    "id": "pixel-9-pro",
+    "name": "Google Pixel 9 Pro",
+    "brand": "Google",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 109999,
+    "originalPrice": 124999,
+    "discount": 12,
+    "rating": 4.7,
+    "reviewCount": 6540,
+    "images": [
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg"
+    ],
+    "highlights": [
+      "6.3-inch Super Actua OLED 120Hz",
+      "Google Tensor G4",
+      "50MP Triple Camera + 5x Tele",
+      "Gemini Advanced AI"
+    ],
+    "specs": {
+      "display": "6.3-inch Super Actua OLED, 2856x1280, 1-120Hz",
+      "processor": "Google Tensor G4",
+      "ram": "16 GB",
+      "storage": "128 GB",
+      "battery": "4700 mAh, 37W",
+      "rearCamera": "50MP + 48MP UW + 48MP 5x Tele",
+      "frontCamera": "42MP",
+      "os": "Android 15, 7 yrs updates",
+      "network": "5G",
+      "weight": "199 g"
+    },
+    "offers": [
+      "₹8,000 off with HDFC Bank",
+      "No Cost EMI from ₹9,166/month",
+      "Exchange up to ₹20,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Obsidian",
+      "Porcelain",
+      "Hazel",
+      "Rose Quartz"
+    ],
+    "description": "Pixel 9 Pro brings a triple camera system, 42MP front camera, and the most advanced Tensor G4 capabilities for power users."
+  },
+  {
+    "id": "pixel-9-pro-xl",
+    "name": "Google Pixel 9 Pro XL",
+    "brand": "Google",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 129999,
+    "originalPrice": 144999,
+    "discount": 10,
+    "rating": 4.7,
+    "reviewCount": 5320,
+    "images": [
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg",
+      "/product-images/pixel-8.jpg"
+    ],
+    "highlights": [
+      "6.8-inch Super Actua OLED 120Hz",
+      "Google Tensor G4",
+      "50MP + 48MP + 48MP 5x Tele",
+      "Massive 5060 mAh Battery"
+    ],
+    "specs": {
+      "display": "6.8-inch Super Actua OLED, 2992x1344, 1-120Hz",
+      "processor": "Google Tensor G4",
+      "ram": "16 GB",
+      "storage": "256 GB",
+      "battery": "5060 mAh, 37W",
+      "rearCamera": "50MP + 48MP UW + 48MP 5x Tele",
+      "frontCamera": "42MP",
+      "os": "Android 15, 7 yrs updates",
+      "network": "5G",
+      "weight": "221 g"
+    },
+    "offers": [
+      "₹10,000 off with HDFC Bank",
+      "No Cost EMI from ₹10,833/month",
+      "Exchange up to ₹22,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Obsidian",
+      "Porcelain",
+      "Hazel",
+      "Rose Quartz"
+    ],
+    "description": "Pixel 9 Pro XL is the ultimate Pixel with a massive 6.8-inch display, 5060 mAh battery, and unmatched Gemini AI features."
+  },
+  {
+    "id": "oneplus-13",
+    "name": "OnePlus 13 5G",
+    "brand": "OnePlus",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 69999,
+    "originalPrice": 79999,
+    "discount": 13,
+    "rating": 4.7,
+    "reviewCount": 12430,
+    "images": [
+      "/product-images/oneplus-13.jpg",
+      "/product-images/oneplus-13.jpg",
+      "/product-images/oneplus-13.jpg",
+      "/product-images/oneplus-13.jpg"
+    ],
+    "highlights": [
+      "6.82-inch 2K LTPO4 AMOLED",
+      "Snapdragon 8 Elite",
+      "Hasselblad Triple Camera",
+      "6000 mAh + 100W"
+    ],
+    "specs": {
+      "display": "6.82-inch 2K LTPO4 AMOLED, 3168x1440, 1-120Hz",
+      "processor": "Snapdragon 8 Elite",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "6000 mAh, 100W SUPERVOOC + 50W Wireless",
+      "rearCamera": "50MP Hasselblad + 50MP UW + 50MP 3x Tele",
+      "frontCamera": "32MP",
+      "os": "Android 15, OxygenOS 15",
+      "network": "5G",
+      "weight": "210 g"
+    },
+    "offers": [
+      "₹5,000 off with ICICI Bank",
+      "No Cost EMI from ₹5,833/month",
+      "Exchange up to ₹16,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Midnight Ocean",
+      "Arctic Dawn",
+      "Black Eclipse"
+    ],
+    "description": "OnePlus 13 pushes boundaries with Snapdragon 8 Elite, Hasselblad cameras, 6000 mAh battery, and the smoothest LTPO4 display."
+  },
+  {
+    "id": "oneplus-13r",
+    "name": "OnePlus 13R 5G",
+    "brand": "OnePlus",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 41999,
+    "originalPrice": 49999,
+    "discount": 16,
+    "rating": 4.5,
+    "reviewCount": 8760,
+    "images": [
+      "/product-images/oneplus-13r.jpg",
+      "/product-images/oneplus-13r.jpg",
+      "/product-images/oneplus-13r.jpg",
+      "/product-images/oneplus-13r.jpg"
+    ],
+    "highlights": [
+      "6.78-inch LTPS AMOLED 120Hz",
+      "Snapdragon 8 Gen 3",
+      "50MP Sony LYT-600",
+      "6000 mAh + 80W"
+    ],
+    "specs": {
+      "display": "6.78-inch LTPS AMOLED, 2780x1264, 120Hz",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "6000 mAh, 80W SUPERVOOC",
+      "rearCamera": "50MP Sony LYT-600 + 8MP UW + 2MP Macro",
+      "frontCamera": "16MP",
+      "os": "Android 15, OxygenOS 15",
+      "network": "5G",
+      "weight": "206 g"
+    },
+    "offers": [
+      "₹3,000 off with HDFC Bank",
+      "No Cost EMI from ₹3,499/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Nebula Noir",
+      "Astral Trail"
+    ],
+    "description": "OnePlus 13R brings Snapdragon 8 Gen 3 power and a massive 6000 mAh battery at a mid-range price point."
+  },
+  {
+    "id": "oneplus-12r",
+    "name": "OnePlus 12R 5G",
+    "brand": "OnePlus",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 39999,
+    "originalPrice": 47999,
+    "discount": 17,
+    "rating": 4.4,
+    "reviewCount": 9870,
+    "images": [
+      "/product-images/oneplus-12r.jpg",
+      "/product-images/oneplus-12r.jpg",
+      "/product-images/oneplus-12r.jpg",
+      "/product-images/oneplus-12r.jpg"
+    ],
+    "highlights": [
+      "6.78-inch ProXDR AMOLED 120Hz",
+      "Snapdragon 8 Gen 2",
+      "50MP Sony IMX890",
+      "5500 mAh + 100W"
+    ],
+    "specs": {
+      "display": "6.78-inch AMOLED, 2780x1264, 120Hz",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5500 mAh, 100W SUPERVOOC",
+      "rearCamera": "50MP Sony IMX890 + 8MP UW + 2MP Macro",
+      "frontCamera": "16MP",
+      "os": "Android 14, OxygenOS 14",
+      "network": "5G",
+      "weight": "207 g"
+    },
+    "offers": [
+      "₹2,000 off with Bank",
+      "No Cost EMI from ₹3,333/month",
+      "Exchange up to ₹10,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Iron Gray",
+      "Cool Blue"
+    ],
+    "description": "OnePlus 12R delivers flagship Snapdragon 8 Gen 2 performance, 100W fast charging, and a 50MP Sony camera at a value price."
+  },
+  {
+    "id": "oneplus-open",
+    "name": "OnePlus Open 5G",
+    "brand": "OnePlus",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 139999,
+    "originalPrice": 159999,
+    "discount": 13,
+    "rating": 4.5,
+    "reviewCount": 4320,
+    "images": [
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg",
+      "/product-images/oneplus-12.jpg"
+    ],
+    "highlights": [
+      "7.82-inch Foldable AMOLED",
+      "Snapdragon 8 Gen 2",
+      "Hasselblad Triple Camera",
+      "4805 mAh + 67W"
+    ],
+    "specs": {
+      "display": "7.82-inch foldable AMOLED + 6.31-inch cover, 2440x2268, 120Hz",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "4805 mAh, 67W SUPERVOOC",
+      "rearCamera": "48MP Hasselblad + 48MP UW + 64MP 3x Tele",
+      "frontCamera": "20MP + 32MP Cover",
+      "os": "Android 14, OxygenOS 14",
+      "network": "5G",
+      "weight": "245 g"
+    },
+    "offers": [
+      "₹10,000 off with HDFC Bank",
+      "No Cost EMI from ₹11,666/month",
+      "Exchange up to ₹25,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Voyager Black",
+      "Emerald Dusk"
+    ],
+    "description": "OnePlus Open is India's thinnest foldable smartphone with Hasselblad cameras, a brilliant cover display, and 67W fast charging."
+  },
+  {
+    "id": "oneplus-nord-3",
+    "name": "OnePlus Nord 3 5G",
+    "brand": "OnePlus",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 33999,
+    "originalPrice": 39999,
+    "discount": 15,
+    "rating": 4.4,
+    "reviewCount": 14560,
+    "images": [
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg",
+      "/product-images/oneplus-nord-4.jpg"
+    ],
+    "highlights": [
+      "6.74-inch AMOLED 120Hz",
+      "MediaTek Dimensity 9000",
+      "50MP Sony IMX890 OIS",
+      "80W SUPERVOOC"
+    ],
+    "specs": {
+      "display": "6.74-inch AMOLED, 2772x1240, 120Hz",
+      "processor": "MediaTek Dimensity 9000",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 80W SUPERVOOC",
+      "rearCamera": "50MP Sony IMX890 OIS + 8MP UW + 2MP Macro",
+      "frontCamera": "16MP",
+      "os": "Android 13, OxygenOS 13.1",
+      "network": "5G",
+      "weight": "193.5 g"
+    },
+    "offers": [
+      "₹2,000 off with ICICI Bank",
+      "No Cost EMI from ₹2,833/month",
+      "Exchange up to ₹9,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Misty Green",
+      "Tempest Gray"
+    ],
+    "description": "OnePlus Nord 3 punches above its weight with a flagship Dimensity 9000 chip, Sony camera, and 80W fast charging."
+  },
+  {
+    "id": "oneplus-nord-ce3-lite",
+    "name": "OnePlus Nord CE 3 Lite 5G",
+    "brand": "OnePlus",
+    "category": [
+      "budget",
+      "5g"
+    ],
+    "price": 19999,
+    "originalPrice": 24999,
+    "discount": 20,
+    "rating": 4.2,
+    "reviewCount": 22340,
+    "images": [
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg",
+      "/product-images/oneplus-nord-ce4.jpg"
+    ],
+    "highlights": [
+      "6.72-inch IPS 120Hz",
+      "Snapdragon 695 5G",
+      "108MP Main Camera",
+      "5000 mAh + 67W"
+    ],
+    "specs": {
+      "display": "6.72-inch IPS LCD, 2400x1080, 120Hz",
+      "processor": "Snapdragon 695",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 67W SUPERVOOC",
+      "rearCamera": "108MP + 2MP Depth",
+      "frontCamera": "16MP",
+      "os": "Android 13, OxygenOS 13.1",
+      "network": "5G",
+      "weight": "195 g"
+    },
+    "offers": [
+      "₹1,500 off with Bank",
+      "No Cost EMI from ₹1,666/month",
+      "Exchange up to ₹5,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Pastel Lime",
+      "Chromatic Gray"
+    ],
+    "description": "OnePlus Nord CE 3 Lite offers 5G connectivity, a 108MP camera, and 67W fast charging at an entry-level price."
+  },
+  {
+    "id": "moto-g84",
+    "name": "Motorola Moto G84 5G",
+    "brand": "Motorola",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 12999,
+    "originalPrice": 16999,
+    "discount": 24,
+    "rating": 4.2,
+    "reviewCount": 18760,
+    "images": [
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg"
+    ],
+    "highlights": [
+      "6.55-inch pOLED 120Hz",
+      "Snapdragon 695",
+      "50MP OIS Camera",
+      "5000 mAh + 33W"
+    ],
+    "specs": {
+      "display": "6.55-inch pOLED, 2400x1080, 120Hz",
+      "processor": "Snapdragon 695",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "5000 mAh, 33W TurboPower",
+      "rearCamera": "50MP OIS + 8MP UW",
+      "frontCamera": "16MP",
+      "os": "Android 13, My UX",
+      "network": "5G",
+      "weight": "167 g"
+    },
+    "offers": [
+      "₹1,000 off with Bank",
+      "No Cost EMI from ₹1,083/month",
+      "Exchange up to ₹4,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Midnight Blue",
+      "Marshmallow Blue",
+      "Viva Magenta"
+    ],
+    "description": "Moto G84 features a stunning pOLED display, 50MP OIS camera, and 33W fast charging with 256GB storage as standard."
+  },
+  {
+    "id": "moto-g85",
+    "name": "Motorola Moto G85 5G",
+    "brand": "Motorola",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 17999,
+    "originalPrice": 21999,
+    "discount": 18,
+    "rating": 4.3,
+    "reviewCount": 11230,
+    "images": [
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg",
+      "/product-images/motorola-edge-50-pro.jpg"
+    ],
+    "highlights": [
+      "6.67-inch pOLED 120Hz",
+      "Snapdragon 6s Gen 3",
+      "50MP OIS Camera",
+      "5000 mAh + 33W"
+    ],
+    "specs": {
+      "display": "6.67-inch pOLED, 2400x1080, 120Hz",
+      "processor": "Snapdragon 6s Gen 3",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 33W TurboPower",
+      "rearCamera": "50MP OIS + 8MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 14, My UX",
+      "network": "5G",
+      "weight": "171 g"
+    },
+    "offers": [
+      "₹1,500 off with Bank",
+      "No Cost EMI from ₹1,499/month",
+      "Exchange up to ₹5,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Cobalt Blue",
+      "Olive Green",
+      "Urban Grey"
+    ],
+    "description": "Moto G85 offers a bright pOLED display, Snapdragon 6s Gen 3 performance, and a high-resolution 32MP selfie camera."
+  },
+  {
+    "id": "motorola-edge-40",
+    "name": "Motorola Edge 40 5G",
+    "brand": "Motorola",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 24999,
+    "originalPrice": 29999,
+    "discount": 17,
+    "rating": 4.3,
+    "reviewCount": 13450,
+    "images": [
+      "/product-images/edge-40.jpg",
+      "/product-images/edge-40.jpg",
+      "/product-images/edge-40.jpg",
+      "/product-images/edge-40.jpg"
+    ],
+    "highlights": [
+      "6.55-inch pOLED 144Hz",
+      "MediaTek Dimensity 8020",
+      "50MP OIS Camera",
+      "IP68 Water Resistant"
+    ],
+    "specs": {
+      "display": "6.55-inch pOLED, 2400x1080, 144Hz",
+      "processor": "MediaTek Dimensity 8020",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4400 mAh, 68W TurboPower",
+      "rearCamera": "50MP OIS + 13MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 13, My UX",
+      "network": "5G",
+      "weight": "171 g"
+    },
+    "offers": [
+      "₹2,000 off with HDFC Bank",
+      "No Cost EMI from ₹2,083/month",
+      "Exchange up to ₹7,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Lunar Blue",
+      "Eclipse Black",
+      "Viva Magenta"
+    ],
+    "description": "Motorola Edge 40 combines a 144Hz pOLED display, 68W fast charging, IP68 water resistance, and a 50MP OIS camera."
+  },
+  {
+    "id": "motorola-edge-50-fusion",
+    "name": "Motorola Edge 50 Fusion 5G",
+    "brand": "Motorola",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 22999,
+    "originalPrice": 27999,
+    "discount": 18,
+    "rating": 4.3,
+    "reviewCount": 9870,
+    "images": [
+      "/product-images/edge-50-fusion.jpg",
+      "/product-images/edge-50-fusion.jpg",
+      "/product-images/edge-50-fusion.jpg",
+      "/product-images/edge-50-fusion.jpg"
+    ],
+    "highlights": [
+      "6.7-inch pOLED 144Hz",
+      "Snapdragon 7s Gen 2",
+      "50MP OIS Camera",
+      "IP68 + Pantone Colors"
+    ],
+    "specs": {
+      "display": "6.7-inch pOLED, 2400x1080, 144Hz",
+      "processor": "Snapdragon 7s Gen 2",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh, 68W TurboPower",
+      "rearCamera": "50MP OIS + 13MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 14, My UX",
+      "network": "5G",
+      "weight": "174.9 g"
+    },
+    "offers": [
+      "₹2,000 off with ICICI Bank",
+      "No Cost EMI from ₹1,916/month",
+      "Exchange up to ₹6,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": false,
+    "isTopDeal": true,
+    "colors": [
+      "Hot Pink",
+      "Marshmallow Blue",
+      "Forest Blue"
+    ],
+    "description": "Motorola Edge 50 Fusion delivers a gorgeous pOLED display, Pantone-validated colors, and 68W charging at a mid-range price."
+  },
+  {
+    "id": "motorola-edge-50-ultra",
+    "name": "Motorola Edge 50 Ultra 5G",
+    "brand": "Motorola",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 59999,
+    "originalPrice": 74999,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 5670,
+    "images": [
+      "/product-images/edge-50-ultra.jpg",
+      "/product-images/edge-50-ultra.jpg",
+      "/product-images/edge-50-ultra.jpg",
+      "/product-images/edge-50-ultra.jpg"
+    ],
+    "highlights": [
+      "6.67-inch pOLED 165Hz",
+      "Snapdragon 8s Gen 3",
+      "50MP Zeiss Triple Camera",
+      "125W TurboPower"
+    ],
+    "specs": {
+      "display": "6.67-inch pOLED, 2712x1220, 165Hz",
+      "processor": "Snapdragon 8s Gen 3",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "4500 mAh, 125W TurboPower + 50W Wireless",
+      "rearCamera": "50MP Zeiss + 50MP Tele OIS + 64MP UW",
+      "frontCamera": "50MP",
+      "os": "Android 14, My UX",
+      "network": "5G",
+      "weight": "206 g"
+    },
+    "offers": [
+      "₹5,000 off with HDFC Bank",
+      "No Cost EMI from ₹4,999/month",
+      "Exchange up to ₹14,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Nordic Wood",
+      "Leather Peach",
+      "Leather White"
+    ],
+    "description": "Edge 50 Ultra is Motorola's fastest-charging phone with 125W TurboPower, Zeiss cameras, and Snapdragon 8s Gen 3."
+  },
+  {
+    "id": "motorola-razr-40",
+    "name": "Motorola Razr 40 5G",
+    "brand": "Motorola",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 44999,
+    "originalPrice": 59999,
+    "discount": 25,
+    "rating": 4.3,
+    "reviewCount": 6780,
+    "images": [
+      "/product-images/razr-40.jpg",
+      "/product-images/razr-40.jpg",
+      "/product-images/razr-40.jpg",
+      "/product-images/razr-40.jpg"
+    ],
+    "highlights": [
+      "6.9-inch pOLED Foldable",
+      "Snapdragon 7 Gen 1",
+      "64MP OIS Main Camera",
+      "IPX8 Water Resistant"
+    ],
+    "specs": {
+      "display": "6.9-inch foldable pOLED, 2640x1080, 144Hz + 1.5-inch cover",
+      "processor": "Snapdragon 7 Gen 1",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4200 mAh, 33W TurboPower",
+      "rearCamera": "64MP OIS + 13MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 13, My UX",
+      "network": "5G",
+      "weight": "188.6 g"
+    },
+    "offers": [
+      "₹4,000 off with Bank",
+      "No Cost EMI from ₹3,749/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Sage Green",
+      "Vanilla Cream",
+      "Summer Lilac"
+    ],
+    "description": "Motorola Razr 40 brings the iconic clamshell foldable design with a practical 1.5-inch cover display and IPX8 protection."
+  },
+  {
+    "id": "motorola-razr-50",
+    "name": "Motorola Razr 50 5G",
+    "brand": "Motorola",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 49999,
+    "originalPrice": 64999,
+    "discount": 23,
+    "rating": 4.4,
+    "reviewCount": 7890,
+    "images": [
+      "/product-images/razr-50.jpg",
+      "/product-images/razr-50.jpg",
+      "/product-images/razr-50.jpg",
+      "/product-images/razr-50.jpg"
+    ],
+    "highlights": [
+      "6.9-inch pOLED Foldable 120Hz",
+      "MediaTek Dimensity 7300X",
+      "50MP OIS Camera",
+      "Large 3.6-inch Cover Display"
+    ],
+    "specs": {
+      "display": "6.9-inch foldable pOLED, 2640x1080, 120Hz + 3.6-inch cover AMOLED",
+      "processor": "MediaTek Dimensity 7300X",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4200 mAh, 33W TurboPower",
+      "rearCamera": "50MP OIS + 13MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 14, My UX",
+      "network": "5G",
+      "weight": "188 g"
+    },
+    "offers": [
+      "₹4,500 off with ICICI Bank",
+      "No Cost EMI from ₹4,166/month",
+      "Exchange up to ₹13,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Spritz Orange",
+      "Beach Sand",
+      "Koala Grey"
+    ],
+    "description": "Razr 50 features the largest cover display in any Razr, Google Gemini support, and a 50MP OIS camera in a slim foldable form."
+  },
+  {
+    "id": "asus-zenfone-10",
+    "name": "ASUS Zenfone 10 5G",
+    "brand": "ASUS",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 54999,
+    "originalPrice": 64999,
+    "discount": 15,
+    "rating": 4.5,
+    "reviewCount": 7890,
+    "images": [
+      "/product-images/zenfone-11-ultra.jpg",
+      "/product-images/zenfone-11-ultra.jpg",
+      "/product-images/zenfone-11-ultra.jpg",
+      "/product-images/zenfone-11-ultra.jpg"
+    ],
+    "highlights": [
+      "5.9-inch AMOLED 144Hz Compact",
+      "Snapdragon 8 Gen 2",
+      "50MP 6-Axis Hybrid Gimbal OIS",
+      "3600 mAh IP68"
+    ],
+    "specs": {
+      "display": "5.9-inch AMOLED, 2400x1080, 144Hz",
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4300 mAh, 30W + 15W Wireless",
+      "rearCamera": "50MP Gimbal OIS + 13MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 13, ZenUI",
+      "network": "5G",
+      "weight": "172 g"
+    },
+    "offers": [
+      "₹4,000 off with Bank",
+      "No Cost EMI from ₹4,583/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": false,
+    "isTopDeal": false,
+    "colors": [
+      "Midnight Black",
+      "Aurora Green",
+      "Starry Blue",
+      "Eclipse Red",
+      "Comet White"
+    ],
+    "description": "Zenfone 10 is a compact powerhouse with Snapdragon 8 Gen 2, a unique 6-axis gimbal camera system, and IP68 water resistance."
+  },
+  {
+    "id": "asus-zenfone-11-ultra",
+    "name": "ASUS Zenfone 11 Ultra 5G",
+    "brand": "ASUS",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 89999,
+    "originalPrice": 99999,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 5430,
+    "images": [
+      "/product-images/zenfone-11-ultra.jpg",
+      "/product-images/zenfone-11-ultra.jpg",
+      "/product-images/zenfone-11-ultra.jpg",
+      "/product-images/zenfone-11-ultra.jpg"
+    ],
+    "highlights": [
+      "6.78-inch AMOLED 144Hz",
+      "Snapdragon 8 Gen 3",
+      "50MP Gimbal + 32MP + 13MP",
+      "5000 mAh + 65W"
+    ],
+    "specs": {
+      "display": "6.78-inch AMOLED, 2400x1080, 144Hz",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "5500 mAh, 65W + 15W Wireless",
+      "rearCamera": "50MP Gimbal OIS + 32MP 3x Tele + 13MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 14, ZenUI",
+      "network": "5G",
+      "weight": "224 g"
+    },
+    "offers": [
+      "₹7,000 off with HDFC Bank",
+      "No Cost EMI from ₹7,499/month",
+      "Exchange up to ₹18,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Skyline Blue",
+      "Eternal Black",
+      "Desert Sand"
+    ],
+    "description": "Zenfone 11 Ultra is ASUS's most complete flagship with a 6-axis gimbal camera, Snapdragon 8 Gen 3, and AI-powered features."
+  },
+  {
+    "id": "asus-rog-phone-9",
+    "name": "ASUS ROG Phone 9 5G",
+    "brand": "ASUS",
+    "category": [
+      "flagship",
+      "5g",
+      "gaming"
+    ],
+    "price": 99999,
+    "originalPrice": 109999,
+    "discount": 9,
+    "rating": 4.7,
+    "reviewCount": 4320,
+    "images": [
+      "/product-images/rog-phone-9.jpg",
+      "/product-images/rog-phone-9.jpg",
+      "/product-images/rog-phone-9.jpg",
+      "/product-images/rog-phone-9.jpg"
+    ],
+    "highlights": [
+      "6.78-inch Samsung AMOLED 185Hz",
+      "Snapdragon 8 Elite",
+      "50MP + 32MP + 13MP",
+      "5800 mAh + 65W + AeroActive Cooler"
+    ],
+    "specs": {
+      "display": "6.78-inch Samsung AMOLED, 2400x1080, 185Hz",
+      "processor": "Snapdragon 8 Elite",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "5800 mAh, 65W HyperCharge",
+      "rearCamera": "50MP + 32MP 3x Tele + 13MP UW",
+      "frontCamera": "32MP",
+      "os": "Android 15, ROG UI",
+      "network": "5G",
+      "weight": "228 g"
+    },
+    "offers": [
+      "₹8,000 off with HDFC Bank",
+      "No Cost EMI from ₹8,333/month",
+      "Exchange up to ₹20,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Phantom Black",
+      "Storm White"
+    ],
+    "description": "ROG Phone 9 is the ultimate gaming flagship with Snapdragon 8 Elite, 185Hz display, AirTrigger 7, and 5800 mAh battery."
+  },
+  {
+    "id": "vivo-t4",
+    "name": "Vivo T4 5G",
+    "brand": "Vivo",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 21999,
+    "originalPrice": 25999,
+    "discount": 15,
+    "rating": 4.3,
+    "reviewCount": 12430,
+    "images": [
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg",
+      "/product-images/vivo-v30-pro.jpg"
+    ],
+    "highlights": [
+      "6.67-inch AMOLED 120Hz",
+      "MediaTek Dimensity 7300",
+      "50MP OIS Camera",
+      "6000 mAh + 44W"
+    ],
+    "specs": {
+      "display": "6.67-inch AMOLED, 2400x1080, 120Hz",
+      "processor": "MediaTek Dimensity 7300",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "6000 mAh, 44W FlashCharge",
+      "rearCamera": "50MP OIS + 8MP UW",
+      "frontCamera": "50MP",
+      "os": "Android 14, FunTouch OS 14",
+      "network": "5G",
+      "weight": "190 g"
+    },
+    "offers": [
+      "₹1,500 off with Bank",
+      "No Cost EMI from ₹1,833/month",
+      "Exchange up to ₹6,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Starry Purple",
+      "Midnight Black",
+      "Aqua Blue"
+    ],
+    "description": "Vivo T4 5G packs a massive 6000 mAh battery, 50MP OIS camera, and AMOLED display for incredible all-day performance."
+  },
+  {
+    "id": "vivo-t4x",
+    "name": "Vivo T4x 5G",
+    "brand": "Vivo",
+    "category": [
+      "budget",
+      "5g"
+    ],
+    "price": 15999,
+    "originalPrice": 19999,
+    "discount": 20,
+    "rating": 4.2,
+    "reviewCount": 18760,
+    "images": [
+      "/product-images/vivo-t4x.jpg",
+      "/product-images/vivo-t4x.jpg",
+      "/product-images/vivo-t4x.jpg",
+      "/product-images/vivo-t4x.jpg"
+    ],
+    "highlights": [
+      "6.72-inch LCD 120Hz",
+      "Snapdragon 6 Gen 1",
+      "50MP Main Camera",
+      "6000 mAh Battery"
+    ],
+    "specs": {
+      "display": "6.72-inch IPS LCD, 2408x1080, 120Hz",
+      "processor": "Snapdragon 6 Gen 1",
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "6000 mAh, 44W FlashCharge",
+      "rearCamera": "50MP + 2MP Depth",
+      "frontCamera": "16MP",
+      "os": "Android 14, FunTouch OS 14",
+      "network": "5G",
+      "weight": "205 g"
+    },
+    "offers": [
+      "₹1,000 off with Bank",
+      "No Cost EMI from ₹1,333/month",
+      "Exchange up to ₹4,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Celestial Blue",
+      "Graphite Black"
+    ],
+    "description": "Vivo T4x brings 5G, a massive 6000 mAh battery, and a 50MP camera to the budget segment with Snapdragon 6 Gen 1."
+  },
+  {
+    "id": "vivo-v40",
+    "name": "Vivo V40 5G",
+    "brand": "Vivo",
+    "category": [
+      "mid-range",
+      "5g"
+    ],
+    "price": 34999,
+    "originalPrice": 39999,
+    "discount": 13,
+    "rating": 4.4,
+    "reviewCount": 14560,
+    "images": [
+      "/product-images/vivo-v40.jpg",
+      "/product-images/vivo-v40.jpg",
+      "/product-images/vivo-v40.jpg",
+      "/product-images/vivo-v40.jpg"
+    ],
+    "highlights": [
+      "6.78-inch AMOLED 120Hz",
+      "Snapdragon 7 Gen 3",
+      "50MP Zeiss Dual Camera",
+      "5500 mAh + 80W"
+    ],
+    "specs": {
+      "display": "6.78-inch AMOLED, 2800x1260, 120Hz",
+      "processor": "Snapdragon 7 Gen 3",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "5500 mAh, 80W FlashCharge",
+      "rearCamera": "50MP Zeiss OIS + 50MP Tele + 8MP UW",
+      "frontCamera": "50MP",
+      "os": "Android 14, FunTouch OS 14",
+      "network": "5G",
+      "weight": "190 g"
+    },
+    "offers": [
+      "₹2,500 off with ICICI Bank",
+      "No Cost EMI from ₹2,916/month",
+      "Exchange up to ₹9,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Lotus Purple",
+      "Titanium Grey",
+      "Royal Bronze"
+    ],
+    "description": "Vivo V40 features Zeiss co-engineered cameras, a vivid AMOLED display, and 80W fast charging with elegant premium design."
+  },
+  {
+    "id": "vivo-v40-pro",
+    "name": "Vivo V40 Pro 5G",
+    "brand": "Vivo",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 44999,
+    "originalPrice": 54999,
+    "discount": 18,
+    "rating": 4.5,
+    "reviewCount": 9870,
+    "images": [
+      "/product-images/vivo-v40-pro.jpg",
+      "/product-images/vivo-v40-pro.jpg",
+      "/product-images/vivo-v40-pro.jpg",
+      "/product-images/vivo-v40-pro.jpg"
+    ],
+    "highlights": [
+      "6.78-inch AMOLED Curved 120Hz",
+      "MediaTek Dimensity 9300+",
+      "50MP Zeiss Apo Summicron Camera",
+      "IP68 Water Resistant"
+    ],
+    "specs": {
+      "display": "6.78-inch Curved AMOLED, 2800x1260, 120Hz",
+      "processor": "MediaTek Dimensity 9300+",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "5500 mAh, 80W FlashCharge + 50W Wireless",
+      "rearCamera": "50MP Zeiss Apo Summicron OIS + 50MP 3x Tele + 8MP UW",
+      "frontCamera": "50MP",
+      "os": "Android 14, FunTouch OS 14",
+      "network": "5G",
+      "weight": "192 g"
+    },
+    "offers": [
+      "₹4,000 off with HDFC Bank",
+      "No Cost EMI from ₹3,749/month",
+      "Exchange up to ₹12,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Titanium Black",
+      "Titanium White",
+      "Aqua Blue"
+    ],
+    "description": "Vivo V40 Pro is a photography powerhouse with Zeiss Apo Summicron lenses, Dimensity 9300+, and wireless charging on a curved AMOLED."
+  },
+  {
+    "id": "vivo-v50",
+    "name": "Vivo V50 5G",
+    "brand": "Vivo",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 39999,
+    "originalPrice": 49999,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 7650,
+    "images": [
+      "/product-images/vivo-v50.jpg",
+      "/product-images/vivo-v50.jpg",
+      "/product-images/vivo-v50.jpg",
+      "/product-images/vivo-v50.jpg"
+    ],
+    "highlights": [
+      "6.77-inch AMOLED 120Hz",
+      "Snapdragon 7 Gen 3",
+      "50MP Zeiss Triple Camera",
+      "6000 mAh + 90W"
+    ],
+    "specs": {
+      "display": "6.77-inch AMOLED, 2800x1260, 120Hz",
+      "processor": "Snapdragon 7 Gen 3",
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "battery": "6000 mAh, 90W FlashCharge + 30W Wireless",
+      "rearCamera": "50MP Zeiss OIS + 50MP Tele + 8MP UW",
+      "frontCamera": "50MP",
+      "os": "Android 15, FunTouch OS 15",
+      "network": "5G",
+      "weight": "194 g"
+    },
+    "offers": [
+      "₹3,000 off with Bank",
+      "No Cost EMI from ₹3,333/month",
+      "Exchange up to ₹11,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNewLaunch": true,
+    "isTopDeal": true,
+    "colors": [
+      "Quantum Silver",
+      "Phantom Black",
+      "Aura Blue"
+    ],
+    "description": "Vivo V50 raises the bar with a 6000 mAh battery, 90W fast charging, Zeiss triple cameras, and a beautiful AMOLED display."
+  },
+  {
+    "id": "vivo-x200-pro",
+    "name": "Vivo X200 Pro 5G",
+    "brand": "Vivo",
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "price": 94999,
+    "originalPrice": 109999,
+    "discount": 14,
+    "rating": 4.7,
+    "reviewCount": 5430,
+    "images": [
+      "/product-images/vivo-x200-pro.jpg",
+      "/product-images/vivo-x200-pro.jpg",
+      "/product-images/vivo-x200-pro.jpg",
+      "/product-images/vivo-x200-pro.jpg"
+    ],
+    "highlights": [
+      "6.78-inch LTPO AMOLED 120Hz",
+      "MediaTek Dimensity 9400",
+      "200MP Zeiss Telephoto Camera",
+      "IP68 + 6000 mAh"
+    ],
+    "specs": {
+      "display": "6.78-inch LTPO AMOLED, 2800x1260, 1-120Hz",
+      "processor": "MediaTek Dimensity 9400",
+      "ram": "16 GB",
+      "storage": "512 GB",
+      "battery": "6000 mAh, 90W FlashCharge + 30W Wireless",
+      "rearCamera": "50MP Zeiss + 50MP UW + 200MP 4.3x Tele",
+      "frontCamera": "32MP",
+      "os": "Android 15, OriginOS 5",
+      "network": "5G",
+      "weight": "229 g"
+    },
+    "offers": [
+      "₹8,000 off with HDFC Bank",
+      "No Cost EMI from ₹7,916/month",
+      "Exchange up to ₹20,000 off"
+    ],
+    "inStock": true,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Cosmos Black",
+      "Starry Blue",
+      "Titanium White"
+    ],
+    "description": "Vivo X200 Pro is a camera beast with a 200MP Zeiss telephoto, Dimensity 9400, 6000 mAh battery, and pro-level video features."
+  },
+  {
+    "id": "IQOO 12",
+    "name": "IQOO 12 5G",
+    "brand": "iQOO",
+    "category": [],
+    "price": 46999,
+    "originalPrice": 50000,
+    "discount": 6,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSx2UJAn2JBCb2XRwctKjj_6jfbXSys5s50JPqJFQjy5fjp24emWFB6oMS-SacYFzoN8F8aFiHkzQvotXMq4tMkMPkjSxlt",
+      "",
+      "",
+      ""
+    ],
+    "highlights": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "specs": {
+      "display": "",
+      "processor": "",
+      "ram": "",
+      "storage": "",
+      "battery": "",
+      "rearCamera": "",
+      "frontCamera": "",
+      "os": "",
+      "network": "",
+      "weight": ""
+    },
+    "offers": [
+      "",
+      "",
+      ""
+    ],
+    "inStock": true,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNewLaunch": true,
+    "isTopDeal": false,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "description": "The iQOO 12 is a high-performance 5G flagship smartphone featuring the Snapdragon 8 Gen 3 chipset, a 6.78-inch 144Hz LTPO AMOLED display (3000 nits peak), and a versatile 50MP+50MP+64MP periscope camera system. It boasts 120W fast charging for its 5000mAh battery, with 12GB/16GB LPDDR5X RAM and 256GB/512GB UFS 4.0 storage"
+  }
+]
